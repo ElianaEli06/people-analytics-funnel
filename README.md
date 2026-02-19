@@ -5,7 +5,7 @@
 
 Usando **Python**, audité más de 11.000 candidatos para entender dónde estamos perdiendo talento y qué fuentes nos traen a los mejores empleados.
 
-## 📁 Mi Estructura Senior
+## 📁 Estructura
 Para que todo esté ordenado organicé el proyecto así:
 - `data/`: Acá guardo los archivos crudos (CSV) de candidatos, procesos y performance.
 - `scripts/`: Acá está mi código de Python (la "magia" que limpia y une todo).
