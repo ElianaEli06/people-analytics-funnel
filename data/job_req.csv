@@ -1,0 +1,901 @@
+id,area,role,seniority,site,recruiter,req_date,salary_offer,target_hires
+JR1000,Cybersecurity,Data Engineer,Ssr,Mendoza,L. Torres,2024-07-17 03:34:20.572993,1594295,1
+JR1001,Infrastructure,Data Engineer,Jr,CABA,L. Torres,2025-04-03 03:34:20.572993,3916826,2
+JR1002,Data & Analytics,Frontend Developer,Ssr,GBA Norte,F. Aguirre,2025-08-01 03:34:20.572993,2688543,1
+JR1003,Infrastructure,Cloud Engineer,Jr,CABA,L. Torres,2024-01-22 03:34:20.572993,2858990,1
+JR1004,Infrastructure,Scrum Master,Sr,Córdoba,L. Torres,2024-08-18 03:34:20.572993,3745800,1
+JR1005,Digital Channels,Data Scientist,Lead,GBA Sur,J. Medina,2024-11-04 03:34:20.572993,2934887,1
+JR1006,Data & Analytics,Data Engineer,Lead,GBA Sur,E. Sánchez,2023-11-20 03:34:20.572993,3902303,1
+JR1007,Data & Analytics,Data Scientist,Sr,Córdoba,F. Aguirre,2024-06-08 03:34:20.572993,3637587,1
+JR1008,Data & Analytics,Backend Developer,Jr,CABA,F. Aguirre,2024-04-10 03:34:20.572993,3422811,1
+JR1009,Infrastructure,Data Engineer,Sr,Rosario,F. Aguirre,2023-11-15 03:34:20.572993,2963808,1
+JR1010,Cybersecurity,Product Manager,Jr,GBA Norte,J. Medina,2024-05-23 03:34:20.572993,4352963,2
+JR1011,Data & Analytics,Cloud Engineer,Jr,CABA,L. Torres,2024-08-19 03:34:20.572993,2593453,2
+JR1012,Payments,Scrum Master,Jr,Córdoba,E. Sánchez,2025-02-16 03:34:20.572993,2311288,1
+JR1013,Infrastructure,Frontend Developer,Ssr,Córdoba,G. Duarte,2024-03-02 03:34:20.572993,4498273,1
+JR1014,Digital Channels,Backend Developer,Sr,CABA,L. Torres,2024-08-07 03:34:20.572993,2971503,1
+JR1015,Cybersecurity,Scrum Master,Ssr,Rosario,J. Medina,2024-04-21 03:34:20.572993,4059330,1
+JR1016,Payments,Security Analyst,Ssr,Rosario,L. Torres,2025-02-12 03:34:20.572993,1325849,2
+JR1017,Payments,Product Manager,Jr,CABA,L. Torres,2024-02-23 03:34:20.572993,4322055,1
+JR1018,Digital Channels,Scrum Master,Lead,Mendoza,J. Medina,2025-05-19 03:34:20.572993,1455493,1
+JR1019,Cybersecurity,Product Manager,Ssr,CABA,F. Aguirre,2024-08-18 03:34:20.572993,1804111,2
+JR1020,Infrastructure,Product Manager,Ssr,CABA,F. Aguirre,2025-09-27 03:34:20.572993,2352791,1
+JR1021,Core Banking IT,Data Scientist,Jr,CABA,E. Sánchez,2024-04-20 03:34:20.572993,3329382,1
+JR1022,Cybersecurity,QA Automation,Sr,Rosario,E. Sánchez,2024-10-26 03:34:20.572993,3643869,1
+JR1023,Digital Channels,Security Analyst,Ssr,Córdoba,F. Aguirre,2025-01-17 03:34:20.572993,1947948,2
+JR1024,Payments,Backend Developer,Jr,CABA,G. Duarte,2024-03-29 03:34:20.572993,3759244,1
+JR1025,Infrastructure,Scrum Master,Jr,CABA,L. Torres,2025-02-23 03:34:20.572993,3599940,2
+JR1026,Cybersecurity,Data Analyst,Ssr,GBA Sur,G. Duarte,2024-03-21 03:34:20.572993,2428312,1
+JR1027,Core Banking IT,Backend Developer,Ssr,CABA,L. Torres,2024-02-05 03:34:20.572993,2031635,2
+JR1028,Core Banking IT,QA Automation,Jr,Rosario,F. Aguirre,2025-09-28 03:34:20.572993,2577397,2
+JR1029,Data & Analytics,Backend Developer,Lead,Rosario,E. Sánchez,2024-05-11 03:34:20.572993,2667217,1
+JR1030,Data & Analytics,Fullstack Developer,Jr,GBA Norte,E. Sánchez,2024-11-12 03:34:20.572993,3944686,1
+JR1031,Digital Channels,Data Analyst,Ssr,Mendoza,G. Duarte,2024-03-18 03:34:20.572993,4430545,1
+JR1032,Cybersecurity,QA Automation,Sr,CABA,E. Sánchez,2024-07-13 03:34:20.572993,1431414,1
+JR1033,Cybersecurity,Data Scientist,Ssr,Mendoza,F. Aguirre,2025-07-03 03:34:20.572993,1456812,1
+JR1034,Payments,Scrum Master,Ssr,Córdoba,G. Duarte,2025-06-10 03:34:20.572993,3263729,1
+JR1035,Payments,Cloud Engineer,Ssr,GBA Sur,L. Torres,2025-09-10 03:34:20.572993,3602110,1
+JR1036,Payments,DevOps Engineer,Jr,CABA,E. Sánchez,2024-11-22 03:34:20.572993,2843083,1
+JR1037,Data & Analytics,QA Automation,Lead,Rosario,J. Medina,2024-04-07 03:34:20.572993,3215726,1
+JR1038,Cybersecurity,Frontend Developer,Ssr,CABA,E. Sánchez,2025-01-16 03:34:20.572993,3468108,1
+JR1039,Cybersecurity,Scrum Master,Sr,CABA,L. Torres,2025-07-30 03:34:20.572993,2606065,1
+JR1040,Core Banking IT,Security Analyst,Jr,CABA,G. Duarte,2025-02-21 03:34:20.572993,2610808,2
+JR1041,Data & Analytics,QA Automation,Jr,GBA Norte,L. Torres,2025-01-29 03:34:20.572993,2055754,1
+JR1042,Infrastructure,Fullstack Developer,Jr,GBA Norte,J. Medina,2025-03-05 03:34:20.572993,1221650,1
+JR1043,Data & Analytics,DevOps Engineer,Ssr,Córdoba,F. Aguirre,2024-08-30 03:34:20.572993,2604962,2
+JR1044,Infrastructure,Fullstack Developer,Ssr,Rosario,E. Sánchez,2024-04-01 03:34:20.572993,4223846,2
+JR1045,Core Banking IT,DevOps Engineer,Sr,CABA,G. Duarte,2024-07-17 03:34:20.572993,3073204,1
+JR1046,Digital Channels,Security Analyst,Ssr,Córdoba,F. Aguirre,2024-09-07 03:34:20.572993,2419309,1
+JR1047,Cybersecurity,Cloud Engineer,Lead,CABA,L. Torres,2023-12-05 03:34:20.572993,4113293,1
+JR1048,Core Banking IT,Frontend Developer,Jr,Rosario,G. Duarte,2024-01-19 03:34:20.572993,3539189,1
+JR1049,Cybersecurity,Scrum Master,Sr,Rosario,F. Aguirre,2025-07-27 03:34:20.572993,4426156,1
+JR1050,Payments,Data Scientist,Sr,GBA Norte,G. Duarte,2024-03-01 03:34:20.572993,1406251,1
+JR1051,Digital Channels,Fullstack Developer,Sr,Córdoba,J. Medina,2024-11-08 03:34:20.572993,3831383,1
+JR1052,Digital Channels,Fullstack Developer,Sr,CABA,J. Medina,2024-09-08 03:34:20.572993,3318194,1
+JR1053,Core Banking IT,Product Manager,Sr,GBA Norte,E. Sánchez,2025-02-23 03:34:20.572993,3025706,1
+JR1054,Digital Channels,DevOps Engineer,Ssr,Rosario,E. Sánchez,2024-02-09 03:34:20.572993,4127478,1
+JR1055,Infrastructure,Data Engineer,Jr,GBA Norte,J. Medina,2025-04-23 03:34:20.572993,2178582,1
+JR1056,Digital Channels,Cloud Engineer,Jr,CABA,G. Duarte,2025-09-01 03:34:20.572993,1518903,1
+JR1057,Cybersecurity,Scrum Master,Sr,GBA Norte,J. Medina,2025-09-03 03:34:20.572993,2616693,1
+JR1058,Cybersecurity,DevOps Engineer,Ssr,Rosario,E. Sánchez,2024-05-20 03:34:20.572993,3079314,2
+JR1059,Cybersecurity,Product Manager,Sr,CABA,J. Medina,2025-05-15 03:34:20.572993,2094801,1
+JR1060,Cybersecurity,Backend Developer,Ssr,CABA,J. Medina,2024-07-09 03:34:20.572993,2924854,2
+JR1061,Infrastructure,DevOps Engineer,Jr,Córdoba,G. Duarte,2024-03-27 03:34:20.572993,2014811,2
+JR1062,Data & Analytics,Data Scientist,Jr,Rosario,F. Aguirre,2024-10-20 03:34:20.572993,1582811,1
+JR1063,Payments,Scrum Master,Ssr,CABA,E. Sánchez,2024-05-08 03:34:20.572993,1701691,1
+JR1064,Core Banking IT,Cloud Engineer,Ssr,CABA,G. Duarte,2025-03-27 03:34:20.572993,2208314,1
+JR1065,Cybersecurity,Product Manager,Jr,CABA,J. Medina,2024-05-31 03:34:20.572993,1414304,1
+JR1066,Digital Channels,Backend Developer,Ssr,CABA,J. Medina,2025-06-05 03:34:20.572993,3693330,1
+JR1067,Cybersecurity,Data Analyst,Jr,GBA Norte,F. Aguirre,2024-05-20 03:34:20.572993,2917787,1
+JR1068,Digital Channels,Product Manager,Ssr,Córdoba,E. Sánchez,2023-11-15 03:34:20.572993,3152634,1
+JR1069,Payments,Data Analyst,Jr,Córdoba,E. Sánchez,2024-07-04 03:34:20.572993,3736115,1
+JR1070,Payments,Scrum Master,Sr,GBA Sur,L. Torres,2024-09-16 03:34:20.572993,2111612,1
+JR1071,Payments,Fullstack Developer,Jr,CABA,E. Sánchez,2025-05-12 03:34:20.572993,3611645,1
+JR1072,Digital Channels,Product Manager,Ssr,Rosario,F. Aguirre,2024-01-05 03:34:20.572993,1401904,2
+JR1073,Cybersecurity,Frontend Developer,Jr,GBA Norte,L. Torres,2025-01-26 03:34:20.572993,1911716,1
+JR1074,Payments,Data Analyst,Jr,Mendoza,L. Torres,2024-07-04 03:34:20.572993,3967257,1
+JR1075,Infrastructure,Data Scientist,Ssr,GBA Sur,J. Medina,2024-05-25 03:34:20.572993,3302882,1
+JR1076,Digital Channels,Frontend Developer,Ssr,CABA,J. Medina,2025-06-17 03:34:20.572993,2655713,1
+JR1077,Digital Channels,QA Automation,Ssr,Córdoba,E. Sánchez,2025-06-03 03:34:20.572993,4035623,1
+JR1078,Cybersecurity,QA Automation,Jr,CABA,L. Torres,2025-04-07 03:34:20.572993,4364751,1
+JR1079,Digital Channels,Backend Developer,Ssr,Córdoba,J. Medina,2025-02-01 03:34:20.572993,2899660,1
+JR1080,Digital Channels,Cloud Engineer,Sr,CABA,F. Aguirre,2024-11-04 03:34:20.572993,3116541,1
+JR1081,Payments,Fullstack Developer,Sr,CABA,J. Medina,2023-12-10 03:34:20.572993,1545430,1
+JR1082,Cybersecurity,Scrum Master,Jr,Rosario,J. Medina,2024-02-26 03:34:20.572993,2028411,2
+JR1083,Payments,Product Manager,Ssr,CABA,L. Torres,2025-07-04 03:34:20.572993,3057845,1
+JR1084,Payments,Data Engineer,Jr,Rosario,L. Torres,2025-01-28 03:34:20.572993,3705365,1
+JR1085,Cybersecurity,Data Scientist,Jr,CABA,G. Duarte,2025-01-21 03:34:20.572993,3139983,2
+JR1086,Core Banking IT,Data Analyst,Lead,GBA Sur,F. Aguirre,2025-07-08 03:34:20.572993,3997551,1
+JR1087,Payments,Scrum Master,Jr,Córdoba,L. Torres,2025-02-09 03:34:20.572993,2769186,1
+JR1088,Infrastructure,Frontend Developer,Ssr,GBA Norte,E. Sánchez,2025-07-17 03:34:20.572993,3318075,1
+JR1089,Infrastructure,Security Analyst,Ssr,CABA,F. Aguirre,2025-03-19 03:34:20.572993,2047405,2
+JR1090,Digital Channels,QA Automation,Sr,CABA,F. Aguirre,2025-09-14 03:34:20.572993,2644679,1
+JR1091,Infrastructure,Security Analyst,Ssr,CABA,L. Torres,2024-07-14 03:34:20.572993,3491947,1
+JR1092,Digital Channels,Data Scientist,Jr,CABA,F. Aguirre,2025-05-06 03:34:20.572993,4126006,2
+JR1093,Core Banking IT,Data Engineer,Jr,Córdoba,L. Torres,2025-05-27 03:34:20.572993,1433462,1
+JR1094,Cybersecurity,Product Manager,Ssr,Mendoza,J. Medina,2025-06-20 03:34:20.572993,3348565,1
+JR1095,Cybersecurity,Backend Developer,Jr,Rosario,G. Duarte,2025-01-22 03:34:20.572993,4186068,2
+JR1096,Cybersecurity,Data Engineer,Ssr,Córdoba,J. Medina,2024-08-14 03:34:20.572993,3168921,1
+JR1097,Infrastructure,Data Scientist,Jr,Córdoba,L. Torres,2025-05-15 03:34:20.572993,3850196,1
+JR1098,Core Banking IT,Data Engineer,Jr,Córdoba,L. Torres,2025-07-15 03:34:20.572993,2582296,1
+JR1099,Infrastructure,Data Scientist,Ssr,CABA,J. Medina,2024-02-29 03:34:20.572993,2521024,1
+JR1100,Infrastructure,Data Scientist,Jr,Rosario,E. Sánchez,2024-11-29 03:34:20.572993,1610226,1
+JR1101,Core Banking IT,DevOps Engineer,Ssr,Córdoba,E. Sánchez,2024-05-19 03:34:20.572993,2375615,1
+JR1102,Core Banking IT,Data Analyst,Ssr,GBA Norte,E. Sánchez,2025-03-14 03:34:20.572993,2964694,1
+JR1103,Core Banking IT,Security Analyst,Sr,CABA,L. Torres,2025-01-09 03:34:20.572993,2935594,1
+JR1104,Core Banking IT,QA Automation,Jr,CABA,F. Aguirre,2024-12-19 03:34:20.572993,3477226,1
+JR1105,Cybersecurity,DevOps Engineer,Jr,GBA Norte,L. Torres,2024-10-10 03:34:20.572993,3007254,1
+JR1106,Data & Analytics,Product Manager,Jr,Rosario,F. Aguirre,2024-06-06 03:34:20.572993,1856735,1
+JR1107,Data & Analytics,DevOps Engineer,Ssr,GBA Norte,J. Medina,2023-12-02 03:34:20.572993,2872349,2
+JR1108,Core Banking IT,Fullstack Developer,Sr,CABA,G. Duarte,2025-09-18 03:34:20.572993,2008524,1
+JR1109,Data & Analytics,Fullstack Developer,Jr,Mendoza,F. Aguirre,2025-07-13 03:34:20.572993,1331562,1
+JR1110,Data & Analytics,QA Automation,Sr,CABA,E. Sánchez,2024-06-05 03:34:20.572993,2252305,1
+JR1111,Core Banking IT,Data Engineer,Jr,CABA,L. Torres,2023-11-18 03:34:20.572993,2909910,1
+JR1112,Data & Analytics,Data Analyst,Ssr,CABA,J. Medina,2025-09-27 03:34:20.572993,3939662,1
+JR1113,Infrastructure,QA Automation,Sr,Córdoba,E. Sánchez,2025-04-22 03:34:20.572993,2595936,1
+JR1114,Digital Channels,Data Scientist,Sr,Rosario,J. Medina,2025-07-04 03:34:20.572993,3905300,1
+JR1115,Digital Channels,Frontend Developer,Sr,CABA,G. Duarte,2025-08-24 03:34:20.572993,1458360,1
+JR1116,Core Banking IT,Data Analyst,Sr,Rosario,L. Torres,2025-08-28 03:34:20.572993,3656166,1
+JR1117,Cybersecurity,Cloud Engineer,Jr,CABA,L. Torres,2024-04-24 03:34:20.572993,4367126,2
+JR1118,Core Banking IT,Security Analyst,Sr,Rosario,G. Duarte,2025-03-20 03:34:20.572993,3593946,1
+JR1119,Cybersecurity,Data Analyst,Jr,Córdoba,L. Torres,2025-06-22 03:34:20.572993,1828177,1
+JR1120,Digital Channels,Data Scientist,Sr,Rosario,F. Aguirre,2025-01-12 03:34:20.572993,1560306,1
+JR1121,Core Banking IT,Data Scientist,Ssr,CABA,J. Medina,2024-04-21 03:34:20.572993,2704558,1
+JR1122,Payments,Backend Developer,Sr,Mendoza,E. Sánchez,2024-11-10 03:34:20.572993,3924274,1
+JR1123,Infrastructure,QA Automation,Ssr,Córdoba,G. Duarte,2025-04-19 03:34:20.572993,2658857,1
+JR1124,Data & Analytics,Data Scientist,Ssr,CABA,F. Aguirre,2024-07-06 03:34:20.572993,2794502,1
+JR1125,Cybersecurity,Fullstack Developer,Ssr,Rosario,E. Sánchez,2024-01-21 03:34:20.572993,2688303,1
+JR1126,Payments,Product Manager,Sr,CABA,E. Sánchez,2025-01-28 03:34:20.572993,2988243,1
+JR1127,Data & Analytics,Frontend Developer,Jr,Rosario,G. Duarte,2025-08-26 03:34:20.572993,1718490,1
+JR1128,Data & Analytics,Security Analyst,Jr,CABA,F. Aguirre,2025-04-02 03:34:20.572993,3004933,1
+JR1129,Core Banking IT,QA Automation,Jr,Córdoba,E. Sánchez,2024-08-05 03:34:20.572993,3273946,2
+JR1130,Data & Analytics,Scrum Master,Jr,GBA Norte,E. Sánchez,2024-12-29 03:34:20.572993,3850760,2
+JR1131,Infrastructure,Fullstack Developer,Sr,CABA,F. Aguirre,2024-07-12 03:34:20.572993,3760244,1
+JR1132,Payments,Cloud Engineer,Jr,CABA,L. Torres,2025-09-15 03:34:20.572993,1234924,2
+JR1133,Data & Analytics,Data Engineer,Lead,CABA,E. Sánchez,2024-01-09 03:34:20.572993,2461368,1
+JR1134,Core Banking IT,Data Scientist,Jr,GBA Norte,J. Medina,2023-11-16 03:34:20.572993,2682526,2
+JR1135,Infrastructure,Scrum Master,Jr,CABA,F. Aguirre,2025-06-02 03:34:20.572993,3103124,1
+JR1136,Digital Channels,Data Scientist,Sr,GBA Sur,E. Sánchez,2024-12-21 03:34:20.572993,3992537,1
+JR1137,Payments,Data Analyst,Ssr,CABA,G. Duarte,2024-06-14 03:34:20.572993,3260583,1
+JR1138,Data & Analytics,Fullstack Developer,Ssr,CABA,J. Medina,2023-12-06 03:34:20.572993,4347887,1
+JR1139,Core Banking IT,Data Analyst,Ssr,Córdoba,E. Sánchez,2023-11-15 03:34:20.572993,3870380,2
+JR1140,Digital Channels,Backend Developer,Sr,CABA,J. Medina,2025-04-25 03:34:20.572993,1670192,1
+JR1141,Digital Channels,Data Analyst,Jr,Rosario,J. Medina,2024-12-04 03:34:20.572993,2787542,1
+JR1142,Cybersecurity,Backend Developer,Lead,Rosario,L. Torres,2025-06-03 03:34:20.572993,3737572,1
+JR1143,Infrastructure,Cloud Engineer,Lead,Córdoba,J. Medina,2025-01-31 03:34:20.572993,1862132,1
+JR1144,Data & Analytics,Backend Developer,Ssr,GBA Sur,L. Torres,2024-04-04 03:34:20.572993,2840027,1
+JR1145,Core Banking IT,Scrum Master,Jr,Rosario,F. Aguirre,2024-12-02 03:34:20.572993,4062480,2
+JR1146,Cybersecurity,Data Scientist,Ssr,CABA,L. Torres,2024-07-16 03:34:20.572993,4026267,1
+JR1147,Infrastructure,Data Engineer,Jr,CABA,G. Duarte,2025-04-19 03:34:20.572993,1354536,1
+JR1148,Cybersecurity,Security Analyst,Jr,CABA,E. Sánchez,2025-02-14 03:34:20.572993,1775425,1
+JR1149,Payments,Data Analyst,Jr,Córdoba,F. Aguirre,2023-11-23 03:34:20.572993,1623448,1
+JR1150,Infrastructure,Security Analyst,Ssr,CABA,F. Aguirre,2024-11-28 03:34:20.572993,4145081,2
+JR1151,Infrastructure,Fullstack Developer,Sr,GBA Sur,G. Duarte,2025-05-19 03:34:20.572993,3798385,1
+JR1152,Data & Analytics,Backend Developer,Sr,Mendoza,L. Torres,2024-12-13 03:34:20.572993,3240104,1
+JR1153,Infrastructure,Data Scientist,Sr,Rosario,E. Sánchez,2023-11-29 03:34:20.572993,1824773,1
+JR1154,Cybersecurity,Frontend Developer,Ssr,GBA Norte,L. Torres,2025-06-07 03:34:20.572993,3217528,1
+JR1155,Infrastructure,QA Automation,Jr,CABA,J. Medina,2025-03-15 03:34:20.572993,2878332,2
+JR1156,Data & Analytics,Scrum Master,Ssr,Rosario,L. Torres,2025-01-02 03:34:20.572993,2202021,1
+JR1157,Data & Analytics,Data Engineer,Lead,GBA Sur,F. Aguirre,2024-10-12 03:34:20.572993,3298053,1
+JR1158,Payments,DevOps Engineer,Jr,CABA,E. Sánchez,2025-01-02 03:34:20.572993,3385132,1
+JR1159,Cybersecurity,Scrum Master,Sr,CABA,L. Torres,2025-07-14 03:34:20.572993,2618314,1
+JR1160,Digital Channels,Cloud Engineer,Ssr,Rosario,E. Sánchez,2025-09-15 03:34:20.572993,1989313,2
+JR1161,Digital Channels,Frontend Developer,Ssr,Córdoba,E. Sánchez,2024-03-11 03:34:20.572993,1492007,1
+JR1162,Infrastructure,QA Automation,Sr,Rosario,J. Medina,2025-01-15 03:34:20.572993,4063874,1
+JR1163,Payments,Frontend Developer,Ssr,Rosario,J. Medina,2023-12-24 03:34:20.572993,3695990,1
+JR1164,Core Banking IT,Data Analyst,Sr,GBA Sur,F. Aguirre,2024-09-22 03:34:20.572993,3813108,1
+JR1165,Infrastructure,Backend Developer,Sr,GBA Norte,G. Duarte,2024-11-25 03:34:20.572993,2724960,1
+JR1166,Payments,Data Engineer,Ssr,CABA,E. Sánchez,2024-04-03 03:34:20.572993,3784215,2
+JR1167,Cybersecurity,Product Manager,Jr,CABA,G. Duarte,2024-10-02 03:34:20.572993,4023698,1
+JR1168,Cybersecurity,Backend Developer,Ssr,CABA,F. Aguirre,2024-11-07 03:34:20.572993,4128785,2
+JR1169,Cybersecurity,Product Manager,Sr,Córdoba,E. Sánchez,2023-12-30 03:34:20.572993,3548991,1
+JR1170,Cybersecurity,Security Analyst,Jr,GBA Sur,E. Sánchez,2024-01-14 03:34:20.572993,4322416,1
+JR1171,Cybersecurity,QA Automation,Ssr,Rosario,G. Duarte,2024-10-30 03:34:20.572993,2569971,1
+JR1172,Payments,Data Scientist,Ssr,CABA,L. Torres,2024-04-22 03:34:20.572993,1796860,1
+JR1173,Payments,DevOps Engineer,Sr,GBA Sur,J. Medina,2024-03-30 03:34:20.572993,2812119,1
+JR1174,Data & Analytics,Fullstack Developer,Jr,GBA Sur,L. Torres,2024-03-17 03:34:20.572993,4133794,2
+JR1175,Digital Channels,Backend Developer,Sr,GBA Sur,G. Duarte,2024-12-12 03:34:20.572993,1587773,1
+JR1176,Cybersecurity,Data Engineer,Sr,Córdoba,J. Medina,2025-02-15 03:34:20.572993,3282816,1
+JR1177,Core Banking IT,Cloud Engineer,Jr,CABA,L. Torres,2024-05-15 03:34:20.572993,1222499,1
+JR1178,Payments,Cloud Engineer,Jr,GBA Norte,J. Medina,2024-05-18 03:34:20.572993,1826840,2
+JR1179,Core Banking IT,Frontend Developer,Lead,CABA,E. Sánchez,2024-12-02 03:34:20.572993,1644844,1
+JR1180,Core Banking IT,Data Engineer,Jr,CABA,L. Torres,2025-01-12 03:34:20.572993,2834224,1
+JR1181,Core Banking IT,QA Automation,Sr,GBA Norte,J. Medina,2024-08-20 03:34:20.572993,2646395,1
+JR1182,Data & Analytics,Security Analyst,Ssr,Córdoba,J. Medina,2024-07-04 03:34:20.572993,3783677,1
+JR1183,Payments,Product Manager,Jr,Mendoza,J. Medina,2024-05-22 03:34:20.572993,2071905,1
+JR1184,Core Banking IT,Frontend Developer,Sr,GBA Sur,L. Torres,2024-08-23 03:34:20.572993,1343704,1
+JR1185,Cybersecurity,Cloud Engineer,Ssr,Córdoba,F. Aguirre,2024-03-25 03:34:20.572993,3983119,1
+JR1186,Infrastructure,Fullstack Developer,Ssr,GBA Norte,L. Torres,2024-04-29 03:34:20.572993,2340449,2
+JR1187,Core Banking IT,Fullstack Developer,Ssr,GBA Sur,G. Duarte,2024-04-17 03:34:20.572993,1265756,1
+JR1188,Data & Analytics,Backend Developer,Ssr,CABA,L. Torres,2024-05-29 03:34:20.572993,3737362,1
+JR1189,Payments,QA Automation,Jr,CABA,J. Medina,2025-03-11 03:34:20.572993,2567064,1
+JR1190,Data & Analytics,Data Scientist,Ssr,CABA,E. Sánchez,2025-05-20 03:34:20.572993,2370473,2
+JR1191,Core Banking IT,Cloud Engineer,Lead,GBA Norte,L. Torres,2025-06-15 03:34:20.572993,1720082,1
+JR1192,Payments,QA Automation,Jr,CABA,L. Torres,2025-03-28 03:34:20.572993,3596640,1
+JR1193,Infrastructure,Security Analyst,Ssr,CABA,J. Medina,2024-11-15 03:34:20.572993,2243361,1
+JR1194,Core Banking IT,Product Manager,Jr,CABA,E. Sánchez,2024-02-21 03:34:20.572993,3380943,1
+JR1195,Data & Analytics,Data Engineer,Sr,Mendoza,E. Sánchez,2024-03-14 03:34:20.572993,2928235,1
+JR1196,Digital Channels,Cloud Engineer,Jr,CABA,G. Duarte,2024-09-18 03:34:20.572993,4000487,2
+JR1197,Cybersecurity,Fullstack Developer,Lead,GBA Norte,L. Torres,2025-02-10 03:34:20.572993,4478262,1
+JR1198,Data & Analytics,Data Engineer,Ssr,CABA,E. Sánchez,2024-06-27 03:34:20.572993,4427169,1
+JR1199,Payments,Data Engineer,Jr,GBA Sur,E. Sánchez,2025-08-29 03:34:20.572993,3125464,1
+JR1200,Core Banking IT,Data Engineer,Jr,CABA,F. Aguirre,2024-05-25 03:34:20.572993,3116796,2
+JR1201,Cybersecurity,Fullstack Developer,Jr,CABA,F. Aguirre,2025-01-06 03:34:20.572993,2486188,1
+JR1202,Core Banking IT,Security Analyst,Ssr,GBA Norte,E. Sánchez,2025-06-04 03:34:20.572993,1633797,2
+JR1203,Payments,Scrum Master,Jr,CABA,G. Duarte,2025-07-12 03:34:20.572993,4285945,1
+JR1204,Core Banking IT,Data Analyst,Sr,CABA,E. Sánchez,2024-04-29 03:34:20.572993,2000607,1
+JR1205,Digital Channels,Product Manager,Ssr,CABA,J. Medina,2024-11-26 03:34:20.572993,3287784,2
+JR1206,Cybersecurity,Scrum Master,Jr,CABA,L. Torres,2024-05-01 03:34:20.572993,3434415,2
+JR1207,Cybersecurity,Product Manager,Ssr,CABA,G. Duarte,2025-09-03 03:34:20.572993,3642730,1
+JR1208,Payments,Frontend Developer,Sr,CABA,J. Medina,2025-02-05 03:34:20.572993,2984094,1
+JR1209,Digital Channels,QA Automation,Jr,Rosario,G. Duarte,2024-10-25 03:34:20.572993,2102153,2
+JR1210,Data & Analytics,QA Automation,Jr,GBA Sur,J. Medina,2025-08-05 03:34:20.572993,3344797,1
+JR1211,Core Banking IT,DevOps Engineer,Jr,GBA Norte,L. Torres,2025-03-18 03:34:20.572993,1439608,1
+JR1212,Infrastructure,QA Automation,Sr,CABA,L. Torres,2025-07-22 03:34:20.572993,1747571,1
+JR1213,Core Banking IT,Fullstack Developer,Ssr,Mendoza,F. Aguirre,2023-11-14 03:34:20.572993,1549115,2
+JR1214,Core Banking IT,Data Scientist,Ssr,CABA,J. Medina,2024-02-11 03:34:20.572993,1302780,2
+JR1215,Data & Analytics,Backend Developer,Sr,CABA,F. Aguirre,2023-11-16 03:34:20.572993,2671816,1
+JR1216,Core Banking IT,DevOps Engineer,Sr,GBA Sur,J. Medina,2024-08-24 03:34:20.572993,2691422,1
+JR1217,Digital Channels,Backend Developer,Ssr,CABA,F. Aguirre,2025-07-20 03:34:20.572993,2017166,2
+JR1218,Digital Channels,Product Manager,Sr,CABA,L. Torres,2024-04-04 03:34:20.572993,4346243,1
+JR1219,Cybersecurity,Backend Developer,Jr,GBA Norte,G. Duarte,2025-01-07 03:34:20.572993,2053159,1
+JR1220,Payments,Backend Developer,Jr,Rosario,F. Aguirre,2025-07-10 03:34:20.572993,2095596,1
+JR1221,Infrastructure,DevOps Engineer,Jr,GBA Norte,J. Medina,2025-02-09 03:34:20.572993,3631129,1
+JR1222,Core Banking IT,Frontend Developer,Jr,Córdoba,J. Medina,2024-05-30 03:34:20.572993,1783043,2
+JR1223,Core Banking IT,Data Engineer,Ssr,Mendoza,L. Torres,2024-06-09 03:34:20.572993,2800720,1
+JR1224,Data & Analytics,QA Automation,Sr,CABA,J. Medina,2023-11-16 03:34:20.572993,3805327,1
+JR1225,Payments,QA Automation,Jr,CABA,E. Sánchez,2025-07-26 03:34:20.572993,4419598,2
+JR1226,Digital Channels,Fullstack Developer,Jr,CABA,G. Duarte,2024-11-20 03:34:20.572993,3190242,1
+JR1227,Infrastructure,DevOps Engineer,Ssr,CABA,F. Aguirre,2025-01-30 03:34:20.572993,4482808,2
+JR1228,Cybersecurity,Fullstack Developer,Sr,CABA,G. Duarte,2024-02-24 03:34:20.572993,3042995,1
+JR1229,Digital Channels,Data Scientist,Jr,Rosario,L. Torres,2025-08-22 03:34:20.572993,3393654,2
+JR1230,Payments,Data Scientist,Ssr,Córdoba,F. Aguirre,2024-12-15 03:34:20.572993,3169412,1
+JR1231,Cybersecurity,Fullstack Developer,Jr,GBA Sur,F. Aguirre,2024-02-14 03:34:20.572993,1790611,2
+JR1232,Data & Analytics,DevOps Engineer,Jr,CABA,E. Sánchez,2024-12-02 03:34:20.572993,1632206,1
+JR1233,Data & Analytics,Fullstack Developer,Lead,Rosario,L. Torres,2025-02-04 03:34:20.572993,1937902,1
+JR1234,Core Banking IT,QA Automation,Lead,Mendoza,J. Medina,2024-12-30 03:34:20.572993,2727553,1
+JR1235,Payments,Scrum Master,Jr,Rosario,E. Sánchez,2025-03-28 03:34:20.572993,3988956,1
+JR1236,Infrastructure,Data Analyst,Lead,CABA,E. Sánchez,2025-02-06 03:34:20.572993,1628556,1
+JR1237,Cybersecurity,Backend Developer,Ssr,GBA Sur,G. Duarte,2024-08-27 03:34:20.572993,2878083,1
+JR1238,Digital Channels,Data Analyst,Sr,CABA,G. Duarte,2025-04-27 03:34:20.572993,3632620,1
+JR1239,Payments,DevOps Engineer,Ssr,CABA,G. Duarte,2024-05-21 03:34:20.572993,3050697,1
+JR1240,Payments,Security Analyst,Ssr,CABA,E. Sánchez,2024-04-08 03:34:20.572993,2882620,1
+JR1241,Data & Analytics,Data Analyst,Ssr,GBA Sur,J. Medina,2025-04-08 03:34:20.572993,1680350,1
+JR1242,Core Banking IT,Data Scientist,Ssr,Córdoba,F. Aguirre,2024-12-07 03:34:20.572993,1696232,1
+JR1243,Core Banking IT,Product Manager,Jr,CABA,G. Duarte,2024-09-21 03:34:20.572993,2887023,1
+JR1244,Cybersecurity,Backend Developer,Jr,CABA,J. Medina,2024-01-25 03:34:20.572993,2949182,1
+JR1245,Data & Analytics,Data Engineer,Jr,GBA Norte,L. Torres,2025-07-01 03:34:20.572993,3828973,1
+JR1246,Payments,Security Analyst,Sr,CABA,G. Duarte,2024-08-06 03:34:20.572993,3246719,1
+JR1247,Infrastructure,DevOps Engineer,Jr,CABA,F. Aguirre,2024-06-22 03:34:20.572993,2626548,1
+JR1248,Data & Analytics,Backend Developer,Ssr,CABA,L. Torres,2025-04-23 03:34:20.572993,3046780,2
+JR1249,Cybersecurity,Data Analyst,Lead,Córdoba,L. Torres,2024-03-02 03:34:20.572993,2075817,1
+JR1250,Cybersecurity,Data Scientist,Jr,CABA,F. Aguirre,2024-07-18 03:34:20.572993,4263692,1
+JR1251,Data & Analytics,Frontend Developer,Ssr,CABA,G. Duarte,2024-06-30 03:34:20.572993,3224611,1
+JR1252,Cybersecurity,Scrum Master,Ssr,CABA,E. Sánchez,2024-02-01 03:34:20.572993,1450231,1
+JR1253,Data & Analytics,Data Engineer,Sr,Mendoza,F. Aguirre,2024-03-14 03:34:20.572993,2261516,1
+JR1254,Digital Channels,Security Analyst,Jr,Córdoba,F. Aguirre,2024-05-03 03:34:20.572993,1580171,1
+JR1255,Data & Analytics,Scrum Master,Ssr,Córdoba,F. Aguirre,2024-01-18 03:34:20.572993,1741220,1
+JR1256,Data & Analytics,Backend Developer,Sr,CABA,L. Torres,2023-12-27 03:34:20.572993,3747195,1
+JR1257,Cybersecurity,Data Scientist,Sr,GBA Sur,J. Medina,2024-07-23 03:34:20.572993,2178935,1
+JR1258,Cybersecurity,Data Scientist,Ssr,CABA,E. Sánchez,2023-12-10 03:34:20.572993,2273224,1
+JR1259,Core Banking IT,Data Analyst,Ssr,GBA Sur,G. Duarte,2024-08-17 03:34:20.572993,2230451,1
+JR1260,Core Banking IT,QA Automation,Ssr,Rosario,G. Duarte,2024-07-04 03:34:20.572993,3330118,1
+JR1261,Digital Channels,Data Analyst,Sr,GBA Sur,J. Medina,2024-07-15 03:34:20.572993,1620993,1
+JR1262,Core Banking IT,QA Automation,Ssr,Rosario,F. Aguirre,2024-11-12 03:34:20.572993,3460791,1
+JR1263,Data & Analytics,QA Automation,Jr,Córdoba,E. Sánchez,2025-03-19 03:34:20.572993,1446331,1
+JR1264,Cybersecurity,Data Engineer,Sr,CABA,G. Duarte,2023-12-05 03:34:20.572993,4231830,1
+JR1265,Core Banking IT,Data Analyst,Ssr,Rosario,G. Duarte,2025-06-18 03:34:20.572993,2291174,2
+JR1266,Core Banking IT,Cloud Engineer,Ssr,CABA,F. Aguirre,2025-03-14 03:34:20.572993,1390271,1
+JR1267,Digital Channels,Frontend Developer,Jr,GBA Norte,J. Medina,2025-03-18 03:34:20.572993,1607014,2
+JR1268,Payments,Security Analyst,Ssr,CABA,E. Sánchez,2024-09-19 03:34:20.572993,4280020,2
+JR1269,Digital Channels,Fullstack Developer,Ssr,CABA,J. Medina,2025-07-08 03:34:20.572993,2047516,1
+JR1270,Data & Analytics,Fullstack Developer,Ssr,CABA,J. Medina,2024-11-19 03:34:20.572993,3996749,1
+JR1271,Cybersecurity,Data Analyst,Jr,CABA,E. Sánchez,2025-08-10 03:34:20.572993,3952690,1
+JR1272,Digital Channels,Data Analyst,Ssr,GBA Norte,E. Sánchez,2023-12-05 03:34:20.572993,3545156,2
+JR1273,Core Banking IT,Scrum Master,Lead,GBA Sur,G. Duarte,2024-10-09 03:34:20.572993,2203510,1
+JR1274,Cybersecurity,Security Analyst,Jr,CABA,G. Duarte,2024-10-30 03:34:20.572993,1217118,1
+JR1275,Cybersecurity,Security Analyst,Lead,CABA,E. Sánchez,2024-03-05 03:34:20.572993,2271192,1
+JR1276,Core Banking IT,Data Engineer,Ssr,GBA Norte,L. Torres,2023-12-28 03:34:20.572993,3429022,1
+JR1277,Digital Channels,Data Analyst,Sr,CABA,G. Duarte,2024-02-17 03:34:20.572993,3060371,1
+JR1278,Core Banking IT,Security Analyst,Sr,Córdoba,L. Torres,2025-02-11 03:34:20.572993,1202795,1
+JR1279,Payments,Scrum Master,Ssr,Córdoba,E. Sánchez,2025-04-16 03:34:20.572993,4443190,1
+JR1280,Cybersecurity,QA Automation,Sr,Rosario,G. Duarte,2025-06-29 03:34:20.572993,2771480,1
+JR1281,Infrastructure,Data Scientist,Sr,Córdoba,J. Medina,2024-12-19 03:34:20.572993,3130873,1
+JR1282,Infrastructure,Data Scientist,Ssr,CABA,E. Sánchez,2024-06-11 03:34:20.572993,1987163,2
+JR1283,Data & Analytics,QA Automation,Jr,Córdoba,F. Aguirre,2025-09-25 03:34:20.572993,4477929,1
+JR1284,Core Banking IT,DevOps Engineer,Ssr,CABA,L. Torres,2025-03-27 03:34:20.572993,3456246,1
+JR1285,Core Banking IT,Scrum Master,Sr,CABA,E. Sánchez,2025-01-31 03:34:20.572993,3560901,1
+JR1286,Data & Analytics,Security Analyst,Sr,Córdoba,E. Sánchez,2025-06-08 03:34:20.572993,4423234,1
+JR1287,Data & Analytics,Cloud Engineer,Sr,CABA,G. Duarte,2024-07-25 03:34:20.572993,4061753,1
+JR1288,Data & Analytics,Scrum Master,Ssr,Córdoba,G. Duarte,2024-03-10 03:34:20.572993,4389858,1
+JR1289,Cybersecurity,QA Automation,Sr,Rosario,G. Duarte,2024-01-03 03:34:20.572993,4243921,1
+JR1290,Payments,Frontend Developer,Jr,Rosario,F. Aguirre,2024-10-06 03:34:20.572993,3460554,1
+JR1291,Core Banking IT,Product Manager,Ssr,Rosario,G. Duarte,2024-07-08 03:34:20.572993,4152053,1
+JR1292,Cybersecurity,Backend Developer,Jr,CABA,E. Sánchez,2025-04-23 03:34:20.572993,4491987,1
+JR1293,Data & Analytics,QA Automation,Jr,CABA,G. Duarte,2025-03-07 03:34:20.572993,1619007,1
+JR1294,Core Banking IT,Cloud Engineer,Ssr,GBA Sur,J. Medina,2024-05-15 03:34:20.572993,2601156,2
+JR1295,Cybersecurity,Security Analyst,Ssr,CABA,G. Duarte,2025-08-27 03:34:20.572993,1423034,1
+JR1296,Payments,Cloud Engineer,Ssr,GBA Sur,F. Aguirre,2024-07-29 03:34:20.572993,3806546,1
+JR1297,Cybersecurity,Cloud Engineer,Ssr,Córdoba,J. Medina,2024-11-08 03:34:20.572993,2872558,1
+JR1298,Payments,Data Analyst,Ssr,Córdoba,E. Sánchez,2025-03-15 03:34:20.572993,3841213,1
+JR1299,Data & Analytics,Data Analyst,Jr,CABA,E. Sánchez,2025-01-14 03:34:20.572993,1990671,2
+JR1300,Payments,Data Engineer,Ssr,CABA,L. Torres,2024-07-06 03:34:20.572993,3580159,1
+JR1301,Core Banking IT,QA Automation,Jr,CABA,J. Medina,2024-09-09 03:34:20.572993,1513559,2
+JR1302,Data & Analytics,Data Engineer,Jr,CABA,L. Torres,2024-09-03 03:34:20.572993,1268968,1
+JR1303,Core Banking IT,QA Automation,Ssr,Rosario,J. Medina,2024-01-25 03:34:20.572993,1693891,1
+JR1304,Infrastructure,Scrum Master,Ssr,CABA,J. Medina,2024-10-08 03:34:20.572993,1784718,2
+JR1305,Digital Channels,Backend Developer,Ssr,CABA,F. Aguirre,2025-08-13 03:34:20.572993,2498648,1
+JR1306,Payments,Cloud Engineer,Ssr,CABA,L. Torres,2025-02-26 03:34:20.572993,3298667,2
+JR1307,Digital Channels,Scrum Master,Ssr,GBA Sur,F. Aguirre,2024-08-19 03:34:20.572993,3394358,2
+JR1308,Digital Channels,Product Manager,Sr,GBA Sur,J. Medina,2025-06-23 03:34:20.572993,3542434,1
+JR1309,Payments,Data Scientist,Ssr,CABA,E. Sánchez,2024-01-21 03:34:20.572993,3008566,1
+JR1310,Data & Analytics,Fullstack Developer,Ssr,CABA,J. Medina,2024-07-30 03:34:20.572993,3704973,2
+JR1311,Infrastructure,QA Automation,Jr,CABA,F. Aguirre,2025-06-07 03:34:20.572993,2042672,1
+JR1312,Core Banking IT,Product Manager,Jr,CABA,L. Torres,2023-11-22 03:34:20.572993,3302738,1
+JR1313,Cybersecurity,Data Scientist,Ssr,Córdoba,L. Torres,2024-03-30 03:34:20.572993,2218725,1
+JR1314,Core Banking IT,Security Analyst,Ssr,GBA Sur,F. Aguirre,2025-05-18 03:34:20.572993,4205958,1
+JR1315,Cybersecurity,DevOps Engineer,Ssr,CABA,L. Torres,2023-11-27 03:34:20.572993,1969565,2
+JR1316,Core Banking IT,Backend Developer,Ssr,CABA,G. Duarte,2024-01-12 03:34:20.572993,2804050,1
+JR1317,Payments,Data Engineer,Ssr,Mendoza,E. Sánchez,2024-07-20 03:34:20.572993,3842151,1
+JR1318,Infrastructure,Data Engineer,Sr,GBA Norte,E. Sánchez,2025-02-17 03:34:20.572993,3317191,1
+JR1319,Cybersecurity,Scrum Master,Sr,Córdoba,E. Sánchez,2024-11-20 03:34:20.572993,2809425,1
+JR1320,Data & Analytics,Data Analyst,Sr,CABA,L. Torres,2025-04-13 03:34:20.572993,3503707,1
+JR1321,Core Banking IT,Data Scientist,Lead,GBA Norte,L. Torres,2024-02-08 03:34:20.572993,2739663,1
+JR1322,Core Banking IT,DevOps Engineer,Jr,CABA,J. Medina,2025-08-01 03:34:20.572993,2198899,1
+JR1323,Cybersecurity,Product Manager,Jr,GBA Norte,J. Medina,2024-05-03 03:34:20.572993,2468306,2
+JR1324,Data & Analytics,Backend Developer,Jr,Mendoza,E. Sánchez,2024-01-25 03:34:20.572993,3298729,2
+JR1325,Data & Analytics,Data Scientist,Ssr,CABA,G. Duarte,2025-07-15 03:34:20.572993,1307792,1
+JR1326,Payments,DevOps Engineer,Sr,CABA,J. Medina,2025-09-03 03:34:20.572993,4243006,1
+JR1327,Payments,Fullstack Developer,Jr,CABA,J. Medina,2024-12-14 03:34:20.572993,3020844,1
+JR1328,Payments,QA Automation,Sr,CABA,L. Torres,2024-01-20 03:34:20.572993,2487116,1
+JR1329,Payments,Data Engineer,Jr,CABA,G. Duarte,2024-05-08 03:34:20.572993,2151302,2
+JR1330,Payments,Product Manager,Sr,CABA,E. Sánchez,2024-03-13 03:34:20.572993,1210785,1
+JR1331,Payments,Data Engineer,Ssr,Córdoba,J. Medina,2024-11-25 03:34:20.572993,2320803,1
+JR1332,Infrastructure,Product Manager,Jr,GBA Norte,G. Duarte,2024-08-29 03:34:20.572993,2105112,1
+JR1333,Data & Analytics,Scrum Master,Ssr,CABA,G. Duarte,2024-05-23 03:34:20.572993,4145541,2
+JR1334,Payments,Data Analyst,Jr,Rosario,E. Sánchez,2024-06-25 03:34:20.572993,4155478,2
+JR1335,Data & Analytics,Product Manager,Jr,CABA,G. Duarte,2025-01-14 03:34:20.572993,1350653,1
+JR1336,Data & Analytics,Data Engineer,Jr,Mendoza,G. Duarte,2025-01-19 03:34:20.572993,3614488,1
+JR1337,Digital Channels,Scrum Master,Sr,CABA,G. Duarte,2025-02-13 03:34:20.572993,1463606,1
+JR1338,Infrastructure,Product Manager,Ssr,Rosario,J. Medina,2025-07-20 03:34:20.572993,3688144,2
+JR1339,Payments,Fullstack Developer,Jr,GBA Sur,E. Sánchez,2023-12-01 03:34:20.572993,2968109,1
+JR1340,Core Banking IT,Data Analyst,Ssr,Rosario,G. Duarte,2024-01-13 03:34:20.572993,2133015,1
+JR1341,Cybersecurity,Product Manager,Sr,Mendoza,G. Duarte,2024-04-23 03:34:20.572993,2948350,1
+JR1342,Core Banking IT,Scrum Master,Jr,CABA,J. Medina,2023-12-07 03:34:20.572993,2845437,1
+JR1343,Infrastructure,Security Analyst,Ssr,Mendoza,E. Sánchez,2024-09-16 03:34:20.572993,3521889,1
+JR1344,Cybersecurity,Data Scientist,Jr,CABA,L. Torres,2024-08-21 03:34:20.572993,2094235,2
+JR1345,Infrastructure,Frontend Developer,Jr,CABA,J. Medina,2025-08-31 03:34:20.572993,3941122,1
+JR1346,Data & Analytics,DevOps Engineer,Ssr,CABA,E. Sánchez,2024-08-17 03:34:20.572993,2786250,1
+JR1347,Cybersecurity,Frontend Developer,Jr,GBA Norte,G. Duarte,2024-04-22 03:34:20.572993,1586213,1
+JR1348,Data & Analytics,Security Analyst,Ssr,CABA,E. Sánchez,2024-06-21 03:34:20.572993,2303036,1
+JR1349,Core Banking IT,Frontend Developer,Sr,GBA Norte,E. Sánchez,2024-04-04 03:34:20.572993,3696589,1
+JR1350,Core Banking IT,Security Analyst,Jr,GBA Norte,E. Sánchez,2023-12-10 03:34:20.572993,1616690,1
+JR1351,Cybersecurity,Backend Developer,Ssr,Córdoba,L. Torres,2023-12-25 03:34:20.572993,2223577,1
+JR1352,Cybersecurity,Security Analyst,Jr,Rosario,E. Sánchez,2025-02-23 03:34:20.572993,2363951,1
+JR1353,Payments,Security Analyst,Lead,CABA,L. Torres,2023-12-14 03:34:20.572993,4196244,1
+JR1354,Infrastructure,Cloud Engineer,Ssr,CABA,G. Duarte,2025-08-24 03:34:20.572993,1352117,1
+JR1355,Payments,Security Analyst,Sr,CABA,L. Torres,2025-01-10 03:34:20.572993,2077751,1
+JR1356,Infrastructure,Fullstack Developer,Ssr,CABA,G. Duarte,2024-06-18 03:34:20.572993,2365158,2
+JR1357,Payments,Data Scientist,Jr,CABA,G. Duarte,2025-04-27 03:34:20.572993,2122426,1
+JR1358,Data & Analytics,QA Automation,Ssr,CABA,L. Torres,2024-11-11 03:34:20.572993,3015879,1
+JR1359,Cybersecurity,Product Manager,Lead,CABA,J. Medina,2025-05-13 03:34:20.572993,1878066,1
+JR1360,Core Banking IT,DevOps Engineer,Ssr,Mendoza,F. Aguirre,2025-06-14 03:34:20.572993,3077779,1
+JR1361,Infrastructure,Data Analyst,Sr,GBA Norte,E. Sánchez,2024-03-05 03:34:20.572993,2825199,1
+JR1362,Infrastructure,Data Scientist,Sr,CABA,F. Aguirre,2024-07-06 03:34:20.572993,3001951,1
+JR1363,Core Banking IT,Data Engineer,Jr,GBA Sur,E. Sánchez,2024-10-10 03:34:20.572993,1252949,1
+JR1364,Payments,QA Automation,Jr,CABA,E. Sánchez,2025-01-24 03:34:20.572993,1663930,1
+JR1365,Infrastructure,Backend Developer,Ssr,CABA,G. Duarte,2024-04-06 03:34:20.572993,3392710,2
+JR1366,Data & Analytics,Backend Developer,Ssr,GBA Sur,E. Sánchez,2023-11-19 03:34:20.572993,2209260,1
+JR1367,Cybersecurity,Security Analyst,Sr,GBA Norte,E. Sánchez,2024-08-24 03:34:20.572993,1989148,1
+JR1368,Core Banking IT,Data Scientist,Sr,CABA,L. Torres,2024-12-02 03:34:20.572993,4493374,1
+JR1369,Cybersecurity,Scrum Master,Ssr,Mendoza,F. Aguirre,2023-12-30 03:34:20.572993,2715509,1
+JR1370,Infrastructure,Cloud Engineer,Jr,Rosario,L. Torres,2025-04-10 03:34:20.572993,2753091,1
+JR1371,Infrastructure,Frontend Developer,Sr,GBA Sur,E. Sánchez,2025-08-09 03:34:20.572993,4014338,1
+JR1372,Core Banking IT,Data Engineer,Jr,GBA Norte,G. Duarte,2025-06-19 03:34:20.572993,3369068,2
+JR1373,Data & Analytics,Backend Developer,Sr,GBA Sur,L. Torres,2025-09-17 03:34:20.572993,2508166,1
+JR1374,Digital Channels,DevOps Engineer,Ssr,CABA,L. Torres,2024-08-14 03:34:20.572993,4069530,1
+JR1375,Core Banking IT,Backend Developer,Ssr,CABA,J. Medina,2024-09-05 03:34:20.572993,3295104,1
+JR1376,Digital Channels,Data Analyst,Jr,CABA,E. Sánchez,2025-06-21 03:34:20.572993,3198053,1
+JR1377,Payments,Product Manager,Ssr,GBA Norte,G. Duarte,2025-08-20 03:34:20.572993,2323270,1
+JR1378,Digital Channels,Backend Developer,Ssr,GBA Norte,L. Torres,2025-07-20 03:34:20.572993,3711019,2
+JR1379,Data & Analytics,Data Analyst,Ssr,CABA,L. Torres,2025-07-09 03:34:20.572993,2055126,2
+JR1380,Payments,Data Scientist,Jr,Mendoza,G. Duarte,2024-03-24 03:34:20.572993,2530728,1
+JR1381,Digital Channels,Data Scientist,Sr,Rosario,E. Sánchez,2025-06-12 03:34:20.572993,2229242,1
+JR1382,Payments,Cloud Engineer,Sr,Córdoba,J. Medina,2024-04-05 03:34:20.572993,3367626,1
+JR1383,Digital Channels,QA Automation,Jr,GBA Norte,L. Torres,2025-03-14 03:34:20.572993,1550068,1
+JR1384,Data & Analytics,Backend Developer,Jr,Rosario,J. Medina,2025-03-02 03:34:20.572993,2510624,1
+JR1385,Digital Channels,DevOps Engineer,Jr,CABA,F. Aguirre,2024-04-17 03:34:20.572993,4289073,1
+JR1386,Digital Channels,Backend Developer,Ssr,Córdoba,E. Sánchez,2024-11-28 03:34:20.572993,3029438,2
+JR1387,Digital Channels,DevOps Engineer,Ssr,CABA,F. Aguirre,2024-04-21 03:34:20.572993,4023651,1
+JR1388,Core Banking IT,Fullstack Developer,Ssr,Córdoba,F. Aguirre,2025-01-24 03:34:20.572993,4118564,1
+JR1389,Core Banking IT,Security Analyst,Jr,CABA,F. Aguirre,2024-05-17 03:34:20.572993,2795368,2
+JR1390,Core Banking IT,QA Automation,Ssr,Rosario,E. Sánchez,2024-12-29 03:34:20.572993,2303546,1
+JR1391,Data & Analytics,Fullstack Developer,Ssr,Mendoza,E. Sánchez,2024-10-14 03:34:20.572993,3938384,1
+JR1392,Payments,Backend Developer,Ssr,CABA,G. Duarte,2025-07-09 03:34:20.572993,1604911,1
+JR1393,Infrastructure,QA Automation,Lead,GBA Norte,J. Medina,2024-05-09 03:34:20.572993,3708164,1
+JR1394,Digital Channels,Fullstack Developer,Jr,Mendoza,J. Medina,2024-08-24 03:34:20.572993,3180639,2
+JR1395,Digital Channels,Frontend Developer,Ssr,GBA Norte,G. Duarte,2024-05-15 03:34:20.572993,2937075,1
+JR1396,Data & Analytics,Backend Developer,Ssr,Rosario,G. Duarte,2024-03-27 03:34:20.572993,2369070,2
+JR1397,Digital Channels,Fullstack Developer,Ssr,GBA Sur,F. Aguirre,2024-03-19 03:34:20.572993,1371277,1
+JR1398,Core Banking IT,Frontend Developer,Sr,CABA,G. Duarte,2024-05-22 03:34:20.572993,1691966,1
+JR1399,Infrastructure,Frontend Developer,Ssr,CABA,L. Torres,2024-09-21 03:34:20.572993,3593455,2
+JR1400,Cybersecurity,Data Scientist,Lead,CABA,J. Medina,2024-04-02 03:34:20.572993,4357244,1
+JR1401,Digital Channels,Cloud Engineer,Jr,Córdoba,G. Duarte,2023-11-26 03:34:20.572993,2561212,1
+JR1402,Core Banking IT,Backend Developer,Jr,CABA,L. Torres,2024-09-07 03:34:20.572993,4112670,1
+JR1403,Cybersecurity,Frontend Developer,Sr,GBA Norte,L. Torres,2025-01-06 03:34:20.572993,2886622,1
+JR1404,Infrastructure,Data Scientist,Ssr,GBA Norte,L. Torres,2024-07-12 03:34:20.572993,2803344,1
+JR1405,Cybersecurity,Fullstack Developer,Jr,GBA Sur,L. Torres,2024-02-25 03:34:20.572993,3480315,1
+JR1406,Core Banking IT,Data Analyst,Jr,Rosario,F. Aguirre,2024-02-06 03:34:20.572993,4473751,1
+JR1407,Payments,Backend Developer,Jr,Mendoza,L. Torres,2024-03-18 03:34:20.572993,3669491,1
+JR1408,Payments,QA Automation,Sr,CABA,F. Aguirre,2024-10-16 03:34:20.572993,2427414,1
+JR1409,Cybersecurity,DevOps Engineer,Jr,Rosario,F. Aguirre,2023-11-14 03:34:20.572993,4122321,1
+JR1410,Data & Analytics,DevOps Engineer,Jr,Córdoba,L. Torres,2024-10-02 03:34:20.572993,3568561,2
+JR1411,Cybersecurity,Fullstack Developer,Jr,GBA Sur,J. Medina,2024-12-24 03:34:20.572993,3935605,1
+JR1412,Digital Channels,Scrum Master,Ssr,Mendoza,L. Torres,2024-09-11 03:34:20.572993,3940941,1
+JR1413,Digital Channels,Scrum Master,Jr,CABA,L. Torres,2025-07-09 03:34:20.572993,2581710,2
+JR1414,Payments,Fullstack Developer,Ssr,CABA,L. Torres,2024-06-22 03:34:20.572993,3791822,1
+JR1415,Data & Analytics,Frontend Developer,Jr,Rosario,J. Medina,2024-10-23 03:34:20.572993,3257797,2
+JR1416,Core Banking IT,Cloud Engineer,Sr,CABA,E. Sánchez,2024-09-26 03:34:20.572993,2001818,1
+JR1417,Digital Channels,Backend Developer,Jr,Rosario,E. Sánchez,2025-05-22 03:34:20.572993,3139726,1
+JR1418,Payments,DevOps Engineer,Ssr,Rosario,F. Aguirre,2024-05-09 03:34:20.572993,2023857,1
+JR1419,Infrastructure,DevOps Engineer,Sr,CABA,F. Aguirre,2025-07-20 03:34:20.572993,3418787,1
+JR1420,Payments,Cloud Engineer,Ssr,Rosario,J. Medina,2024-11-30 03:34:20.572993,3995766,2
+JR1421,Digital Channels,Frontend Developer,Ssr,CABA,G. Duarte,2025-07-20 03:34:20.572993,1420935,1
+JR1422,Digital Channels,DevOps Engineer,Jr,GBA Norte,E. Sánchez,2024-02-26 03:34:20.572993,4399362,2
+JR1423,Payments,QA Automation,Jr,GBA Sur,F. Aguirre,2025-04-24 03:34:20.572993,4301373,2
+JR1424,Core Banking IT,Backend Developer,Ssr,Mendoza,E. Sánchez,2024-12-24 03:34:20.572993,4000174,1
+JR1425,Cybersecurity,Product Manager,Lead,CABA,J. Medina,2024-09-01 03:34:20.572993,2073420,1
+JR1426,Digital Channels,DevOps Engineer,Ssr,GBA Norte,J. Medina,2024-04-29 03:34:20.572993,3007720,2
+JR1427,Payments,Fullstack Developer,Ssr,Córdoba,G. Duarte,2024-10-06 03:34:20.572993,3141345,2
+JR1428,Payments,QA Automation,Sr,Córdoba,G. Duarte,2025-03-17 03:34:20.572993,1692503,1
+JR1429,Data & Analytics,DevOps Engineer,Ssr,Córdoba,J. Medina,2024-05-23 03:34:20.572993,1418599,1
+JR1430,Cybersecurity,Security Analyst,Jr,CABA,F. Aguirre,2023-11-22 03:34:20.572993,3535071,1
+JR1431,Infrastructure,QA Automation,Ssr,CABA,E. Sánchez,2024-05-23 03:34:20.572993,3765820,1
+JR1432,Core Banking IT,Data Scientist,Lead,CABA,L. Torres,2025-03-14 03:34:20.572993,3700511,1
+JR1433,Infrastructure,Product Manager,Jr,Rosario,G. Duarte,2024-05-10 03:34:20.572993,2733183,2
+JR1434,Cybersecurity,Data Engineer,Ssr,CABA,L. Torres,2025-08-27 03:34:20.572993,2840307,1
+JR1435,Cybersecurity,Fullstack Developer,Jr,CABA,F. Aguirre,2024-09-21 03:34:20.572993,2540144,1
+JR1436,Cybersecurity,Fullstack Developer,Ssr,Mendoza,G. Duarte,2023-12-10 03:34:20.572993,2028416,1
+JR1437,Infrastructure,Backend Developer,Jr,CABA,L. Torres,2025-06-28 03:34:20.572993,3338657,1
+JR1438,Cybersecurity,Cloud Engineer,Ssr,Mendoza,F. Aguirre,2025-09-18 03:34:20.572993,4448206,1
+JR1439,Payments,QA Automation,Sr,Córdoba,E. Sánchez,2024-02-14 03:34:20.572993,4408427,1
+JR1440,Infrastructure,Frontend Developer,Jr,Rosario,F. Aguirre,2024-11-25 03:34:20.572993,2144461,1
+JR1441,Cybersecurity,Fullstack Developer,Ssr,CABA,G. Duarte,2025-01-27 03:34:20.572993,2667256,1
+JR1442,Payments,QA Automation,Sr,CABA,J. Medina,2024-09-03 03:34:20.572993,4197596,1
+JR1443,Data & Analytics,QA Automation,Sr,Córdoba,E. Sánchez,2024-11-05 03:34:20.572993,1354721,1
+JR1444,Cybersecurity,Security Analyst,Jr,Rosario,L. Torres,2024-11-18 03:34:20.572993,3208145,1
+JR1445,Infrastructure,Data Analyst,Ssr,Córdoba,G. Duarte,2025-05-17 03:34:20.572993,2210165,1
+JR1446,Digital Channels,Data Analyst,Jr,CABA,J. Medina,2024-09-08 03:34:20.572993,4118342,1
+JR1447,Cybersecurity,Data Engineer,Lead,Córdoba,F. Aguirre,2025-01-04 03:34:20.572993,1336668,1
+JR1448,Digital Channels,Data Scientist,Sr,Córdoba,J. Medina,2024-07-13 03:34:20.572993,1478518,1
+JR1449,Payments,Data Engineer,Ssr,Córdoba,G. Duarte,2024-07-04 03:34:20.572993,3940126,1
+JR1450,Data & Analytics,DevOps Engineer,Sr,Córdoba,G. Duarte,2025-04-27 03:34:20.572993,4104613,1
+JR1451,Core Banking IT,Frontend Developer,Ssr,Rosario,J. Medina,2024-05-13 03:34:20.572993,3905421,1
+JR1452,Data & Analytics,DevOps Engineer,Ssr,GBA Sur,F. Aguirre,2025-02-20 03:34:20.572993,2564359,1
+JR1453,Cybersecurity,Scrum Master,Jr,CABA,J. Medina,2024-11-07 03:34:20.572993,2362586,1
+JR1454,Digital Channels,DevOps Engineer,Sr,GBA Norte,G. Duarte,2024-08-19 03:34:20.572993,2803969,1
+JR1455,Digital Channels,Backend Developer,Jr,CABA,G. Duarte,2025-05-16 03:34:20.572993,1723472,1
+JR1456,Infrastructure,DevOps Engineer,Sr,CABA,L. Torres,2024-10-11 03:34:20.572993,1606884,1
+JR1457,Digital Channels,Data Engineer,Sr,CABA,L. Torres,2024-04-20 03:34:20.572993,1459021,1
+JR1458,Infrastructure,Fullstack Developer,Sr,CABA,E. Sánchez,2024-04-18 03:34:20.572993,1347032,1
+JR1459,Payments,Fullstack Developer,Jr,CABA,G. Duarte,2025-02-26 03:34:20.572993,3947959,1
+JR1460,Core Banking IT,Data Analyst,Jr,CABA,L. Torres,2025-07-03 03:34:20.572993,4488157,2
+JR1461,Cybersecurity,Cloud Engineer,Jr,Rosario,J. Medina,2024-09-27 03:34:20.572993,1657820,1
+JR1462,Infrastructure,Frontend Developer,Ssr,Mendoza,F. Aguirre,2023-11-22 03:34:20.572993,2089171,1
+JR1463,Core Banking IT,Frontend Developer,Jr,CABA,J. Medina,2025-01-07 03:34:20.572993,2562516,1
+JR1464,Digital Channels,Backend Developer,Sr,Mendoza,F. Aguirre,2024-01-22 03:34:20.572993,3575100,1
+JR1465,Digital Channels,Data Engineer,Ssr,GBA Norte,L. Torres,2025-06-20 03:34:20.572993,2233237,1
+JR1466,Core Banking IT,Data Analyst,Jr,CABA,E. Sánchez,2024-05-29 03:34:20.572993,2918562,1
+JR1467,Digital Channels,Security Analyst,Ssr,CABA,J. Medina,2025-04-15 03:34:20.572993,3456356,1
+JR1468,Payments,Scrum Master,Ssr,GBA Norte,J. Medina,2025-03-29 03:34:20.572993,4221105,1
+JR1469,Payments,Frontend Developer,Ssr,Córdoba,J. Medina,2025-09-28 03:34:20.572993,2529785,1
+JR1470,Core Banking IT,Fullstack Developer,Ssr,Córdoba,F. Aguirre,2023-12-19 03:34:20.572993,4185087,1
+JR1471,Infrastructure,DevOps Engineer,Sr,CABA,L. Torres,2024-01-09 03:34:20.572993,1305072,1
+JR1472,Infrastructure,DevOps Engineer,Ssr,CABA,J. Medina,2025-06-10 03:34:20.572993,3961642,1
+JR1473,Core Banking IT,Cloud Engineer,Lead,CABA,J. Medina,2024-09-26 03:34:20.572993,1289360,1
+JR1474,Infrastructure,Data Analyst,Sr,CABA,E. Sánchez,2025-01-18 03:34:20.572993,3359439,1
+JR1475,Infrastructure,Data Engineer,Jr,CABA,E. Sánchez,2025-08-07 03:34:20.572993,1907062,2
+JR1476,Payments,Data Engineer,Sr,CABA,L. Torres,2025-09-16 03:34:20.572993,1892353,1
+JR1477,Infrastructure,Data Scientist,Jr,Rosario,L. Torres,2024-12-22 03:34:20.572993,1887235,1
+JR1478,Data & Analytics,Product Manager,Sr,Mendoza,G. Duarte,2024-11-30 03:34:20.572993,1970644,1
+JR1479,Cybersecurity,Frontend Developer,Ssr,CABA,E. Sánchez,2025-09-11 03:34:20.572993,3958566,2
+JR1480,Digital Channels,Data Engineer,Sr,Rosario,G. Duarte,2025-06-01 03:34:20.572993,3528033,1
+JR1481,Data & Analytics,Cloud Engineer,Sr,CABA,F. Aguirre,2024-01-27 03:34:20.572993,2355933,1
+JR1482,Infrastructure,Fullstack Developer,Sr,GBA Norte,G. Duarte,2024-05-22 03:34:20.572993,2690309,1
+JR1483,Payments,Data Analyst,Sr,CABA,J. Medina,2024-08-21 03:34:20.572993,1407440,1
+JR1484,Core Banking IT,Scrum Master,Jr,GBA Sur,G. Duarte,2025-04-20 03:34:20.572993,3851110,1
+JR1485,Infrastructure,Data Scientist,Jr,Mendoza,L. Torres,2025-04-17 03:34:20.572993,4171972,1
+JR1486,Payments,Cloud Engineer,Ssr,GBA Sur,F. Aguirre,2025-07-15 03:34:20.572993,4065599,1
+JR1487,Cybersecurity,QA Automation,Jr,CABA,J. Medina,2024-04-14 03:34:20.572993,2446735,2
+JR1488,Infrastructure,Backend Developer,Ssr,GBA Sur,G. Duarte,2024-10-15 03:34:20.572993,3082930,2
+JR1489,Core Banking IT,Scrum Master,Jr,CABA,F. Aguirre,2024-03-14 03:34:20.572993,1394152,2
+JR1490,Payments,QA Automation,Lead,Rosario,F. Aguirre,2024-08-16 03:34:20.572993,3128356,1
+JR1491,Payments,Security Analyst,Ssr,GBA Norte,J. Medina,2025-07-24 03:34:20.572993,1803623,1
+JR1492,Payments,DevOps Engineer,Sr,CABA,G. Duarte,2025-08-29 03:34:20.572993,2012744,1
+JR1493,Cybersecurity,Backend Developer,Jr,GBA Sur,F. Aguirre,2025-09-14 03:34:20.572993,4319812,1
+JR1494,Infrastructure,Frontend Developer,Sr,GBA Sur,F. Aguirre,2024-03-17 03:34:20.572993,4412713,1
+JR1495,Cybersecurity,Fullstack Developer,Sr,CABA,E. Sánchez,2024-09-19 03:34:20.572993,2175112,1
+JR1496,Digital Channels,Backend Developer,Ssr,Córdoba,F. Aguirre,2024-10-07 03:34:20.572993,1683178,1
+JR1497,Digital Channels,Product Manager,Ssr,CABA,E. Sánchez,2024-04-08 03:34:20.572993,2419925,1
+JR1498,Infrastructure,QA Automation,Sr,Córdoba,G. Duarte,2025-02-06 03:34:20.572993,1755839,1
+JR1499,Cybersecurity,Frontend Developer,Jr,Rosario,G. Duarte,2023-12-16 03:34:20.572993,1814101,2
+JR1500,Core Banking IT,Product Manager,Ssr,Rosario,G. Duarte,2025-09-25 03:34:20.572993,1649813,1
+JR1501,Payments,DevOps Engineer,Ssr,GBA Norte,L. Torres,2025-01-03 03:34:20.572993,2258213,2
+JR1502,Payments,Product Manager,Jr,GBA Norte,G. Duarte,2023-12-02 03:34:20.572993,3078266,1
+JR1503,Infrastructure,Data Scientist,Ssr,CABA,F. Aguirre,2024-06-03 03:34:20.572993,2153197,1
+JR1504,Digital Channels,Data Scientist,Jr,Córdoba,J. Medina,2025-08-10 03:34:20.572993,2127328,2
+JR1505,Digital Channels,Security Analyst,Jr,CABA,E. Sánchez,2024-10-31 03:34:20.572993,2902417,1
+JR1506,Payments,Data Analyst,Jr,GBA Norte,L. Torres,2025-01-23 03:34:20.572993,1751238,2
+JR1507,Infrastructure,Scrum Master,Lead,CABA,G. Duarte,2024-02-14 03:34:20.572993,1616704,1
+JR1508,Cybersecurity,Scrum Master,Ssr,CABA,G. Duarte,2024-04-22 03:34:20.572993,2900734,1
+JR1509,Digital Channels,Frontend Developer,Lead,GBA Sur,J. Medina,2024-04-06 03:34:20.572993,3281280,1
+JR1510,Cybersecurity,DevOps Engineer,Ssr,CABA,J. Medina,2025-04-23 03:34:20.572993,1200215,2
+JR1511,Digital Channels,Data Engineer,Jr,Córdoba,L. Torres,2024-08-30 03:34:20.572993,1567747,1
+JR1512,Digital Channels,Security Analyst,Ssr,CABA,E. Sánchez,2024-05-23 03:34:20.572993,4095107,2
+JR1513,Data & Analytics,Data Scientist,Ssr,CABA,G. Duarte,2025-09-03 03:34:20.572993,2055121,1
+JR1514,Digital Channels,Frontend Developer,Jr,GBA Norte,L. Torres,2025-03-04 03:34:20.572993,4369562,1
+JR1515,Core Banking IT,Data Engineer,Ssr,CABA,F. Aguirre,2024-03-12 03:34:20.572993,2217375,1
+JR1516,Infrastructure,Scrum Master,Jr,CABA,F. Aguirre,2024-12-14 03:34:20.572993,1472544,1
+JR1517,Infrastructure,Data Analyst,Ssr,Córdoba,L. Torres,2025-02-04 03:34:20.572993,1734633,1
+JR1518,Cybersecurity,Product Manager,Ssr,CABA,G. Duarte,2025-09-01 03:34:20.572993,2282472,2
+JR1519,Digital Channels,Data Scientist,Jr,Rosario,L. Torres,2024-02-22 03:34:20.572993,2727222,1
+JR1520,Core Banking IT,Frontend Developer,Jr,CABA,G. Duarte,2025-02-14 03:34:20.572993,3063907,1
+JR1521,Cybersecurity,Backend Developer,Sr,CABA,J. Medina,2024-12-10 03:34:20.572993,2014661,1
+JR1522,Data & Analytics,Data Engineer,Ssr,Córdoba,L. Torres,2024-10-12 03:34:20.572993,3807421,1
+JR1523,Cybersecurity,Product Manager,Jr,CABA,G. Duarte,2025-07-01 03:34:20.572993,2516303,1
+JR1524,Cybersecurity,Data Scientist,Lead,CABA,L. Torres,2024-03-31 03:34:20.572993,2122401,1
+JR1525,Digital Channels,Scrum Master,Jr,CABA,L. Torres,2024-09-22 03:34:20.572993,1713622,1
+JR1526,Data & Analytics,Cloud Engineer,Ssr,CABA,G. Duarte,2025-05-21 03:34:20.572993,2320113,1
+JR1527,Cybersecurity,DevOps Engineer,Lead,Rosario,G. Duarte,2025-04-20 03:34:20.572993,3013353,1
+JR1528,Core Banking IT,Data Engineer,Jr,CABA,E. Sánchez,2025-05-19 03:34:20.572993,1597783,1
+JR1529,Core Banking IT,Scrum Master,Jr,Córdoba,L. Torres,2024-12-15 03:34:20.572993,3951088,1
+JR1530,Infrastructure,Data Scientist,Jr,Rosario,F. Aguirre,2025-09-21 03:34:20.572993,2099084,1
+JR1531,Data & Analytics,Data Engineer,Jr,CABA,L. Torres,2024-09-15 03:34:20.572993,1670455,1
+JR1532,Data & Analytics,Security Analyst,Jr,Rosario,L. Torres,2025-03-19 03:34:20.572993,3965841,2
+JR1533,Infrastructure,Product Manager,Ssr,CABA,G. Duarte,2025-05-19 03:34:20.572993,1432117,2
+JR1534,Cybersecurity,Data Scientist,Jr,Mendoza,L. Torres,2025-07-12 03:34:20.572993,3021644,2
+JR1535,Data & Analytics,Security Analyst,Ssr,CABA,L. Torres,2024-02-27 03:34:20.572993,3858492,1
+JR1536,Core Banking IT,QA Automation,Lead,Córdoba,F. Aguirre,2024-11-16 03:34:20.572993,1650985,1
+JR1537,Core Banking IT,Frontend Developer,Sr,GBA Norte,G. Duarte,2025-07-18 03:34:20.572993,3343184,1
+JR1538,Digital Channels,Cloud Engineer,Ssr,CABA,L. Torres,2024-06-03 03:34:20.572993,1704910,2
+JR1539,Data & Analytics,Product Manager,Jr,GBA Sur,J. Medina,2023-12-23 03:34:20.572993,4303377,1
+JR1540,Cybersecurity,Data Engineer,Ssr,Córdoba,E. Sánchez,2024-07-12 03:34:20.572993,4160565,1
+JR1541,Infrastructure,DevOps Engineer,Ssr,CABA,F. Aguirre,2024-08-23 03:34:20.572993,1823090,2
+JR1542,Infrastructure,Scrum Master,Ssr,CABA,L. Torres,2024-10-30 03:34:20.572993,3229341,1
+JR1543,Cybersecurity,Backend Developer,Jr,Córdoba,J. Medina,2025-02-28 03:34:20.572993,4217465,1
+JR1544,Payments,Scrum Master,Sr,Córdoba,L. Torres,2024-02-01 03:34:20.572993,3726915,1
+JR1545,Digital Channels,Data Engineer,Ssr,Mendoza,L. Torres,2024-02-28 03:34:20.572993,3602114,1
+JR1546,Infrastructure,Cloud Engineer,Jr,Córdoba,G. Duarte,2024-05-18 03:34:20.572993,3135430,1
+JR1547,Data & Analytics,Scrum Master,Ssr,Mendoza,G. Duarte,2024-07-18 03:34:20.572993,2969617,1
+JR1548,Digital Channels,Frontend Developer,Ssr,Córdoba,G. Duarte,2024-08-27 03:34:20.572993,3638761,1
+JR1549,Data & Analytics,Cloud Engineer,Sr,CABA,J. Medina,2025-08-16 03:34:20.572993,4048039,1
+JR1550,Core Banking IT,Data Scientist,Sr,CABA,L. Torres,2024-05-29 03:34:20.572993,1837509,1
+JR1551,Digital Channels,Security Analyst,Sr,Córdoba,E. Sánchez,2024-10-01 03:34:20.572993,3596629,1
+JR1552,Infrastructure,Backend Developer,Jr,GBA Sur,F. Aguirre,2025-04-04 03:34:20.572993,2375033,1
+JR1553,Digital Channels,Fullstack Developer,Ssr,CABA,G. Duarte,2024-12-23 03:34:20.572993,2527296,1
+JR1554,Digital Channels,Data Engineer,Ssr,CABA,G. Duarte,2025-07-09 03:34:20.572993,4465603,2
+JR1555,Digital Channels,Data Analyst,Jr,Mendoza,L. Torres,2025-04-01 03:34:20.572993,2080432,1
+JR1556,Payments,Fullstack Developer,Jr,GBA Norte,L. Torres,2025-07-03 03:34:20.572993,1666995,1
+JR1557,Digital Channels,Scrum Master,Sr,CABA,J. Medina,2024-01-21 03:34:20.572993,3853041,1
+JR1558,Data & Analytics,Data Engineer,Jr,GBA Norte,J. Medina,2024-07-14 03:34:20.572993,4151530,2
+JR1559,Core Banking IT,Security Analyst,Ssr,CABA,G. Duarte,2025-08-12 03:34:20.572993,3233436,1
+JR1560,Cybersecurity,QA Automation,Jr,CABA,L. Torres,2025-07-10 03:34:20.572993,2562836,1
+JR1561,Digital Channels,Security Analyst,Jr,CABA,E. Sánchez,2025-06-19 03:34:20.572993,3266905,1
+JR1562,Infrastructure,Data Analyst,Jr,CABA,F. Aguirre,2025-05-29 03:34:20.572993,2759048,1
+JR1563,Digital Channels,Backend Developer,Lead,Córdoba,L. Torres,2024-10-19 03:34:20.572993,1828474,1
+JR1564,Infrastructure,Security Analyst,Sr,CABA,L. Torres,2024-01-03 03:34:20.572993,4146478,1
+JR1565,Data & Analytics,DevOps Engineer,Lead,Rosario,J. Medina,2025-04-21 03:34:20.572993,1889995,1
+JR1566,Infrastructure,QA Automation,Ssr,Rosario,F. Aguirre,2025-07-13 03:34:20.572993,2829618,1
+JR1567,Cybersecurity,Fullstack Developer,Jr,CABA,G. Duarte,2025-04-25 03:34:20.572993,3390002,1
+JR1568,Core Banking IT,Data Scientist,Ssr,Córdoba,L. Torres,2025-05-21 03:34:20.572993,4193349,1
+JR1569,Infrastructure,Frontend Developer,Ssr,GBA Norte,G. Duarte,2024-05-21 03:34:20.572993,2989055,1
+JR1570,Infrastructure,DevOps Engineer,Sr,Rosario,L. Torres,2024-01-07 03:34:20.572993,2811735,1
+JR1571,Core Banking IT,QA Automation,Jr,CABA,G. Duarte,2025-01-20 03:34:20.572993,2442522,1
+JR1572,Cybersecurity,Data Scientist,Ssr,Córdoba,F. Aguirre,2024-02-29 03:34:20.572993,3768101,1
+JR1573,Digital Channels,Data Scientist,Jr,GBA Sur,J. Medina,2024-03-18 03:34:20.572993,4113095,2
+JR1574,Infrastructure,Data Engineer,Jr,CABA,F. Aguirre,2024-10-01 03:34:20.572993,2067392,1
+JR1575,Core Banking IT,QA Automation,Sr,CABA,E. Sánchez,2023-11-18 03:34:20.572993,2166325,1
+JR1576,Data & Analytics,Backend Developer,Ssr,Córdoba,J. Medina,2023-12-09 03:34:20.572993,2497776,2
+JR1577,Core Banking IT,Scrum Master,Ssr,Córdoba,F. Aguirre,2024-03-01 03:34:20.572993,1925527,1
+JR1578,Data & Analytics,Data Analyst,Ssr,CABA,E. Sánchez,2025-09-13 03:34:20.572993,3241215,2
+JR1579,Cybersecurity,Data Analyst,Ssr,GBA Sur,L. Torres,2024-03-20 03:34:20.572993,2703174,1
+JR1580,Digital Channels,Fullstack Developer,Sr,CABA,L. Torres,2024-05-16 03:34:20.572993,3780562,1
+JR1581,Core Banking IT,Fullstack Developer,Sr,Córdoba,G. Duarte,2025-09-15 03:34:20.572993,3007317,1
+JR1582,Payments,Data Analyst,Lead,CABA,J. Medina,2025-02-27 03:34:20.572993,2683702,1
+JR1583,Infrastructure,Security Analyst,Sr,Rosario,L. Torres,2024-11-08 03:34:20.572993,2453179,1
+JR1584,Cybersecurity,Backend Developer,Jr,CABA,J. Medina,2024-06-01 03:34:20.572993,2929122,1
+JR1585,Core Banking IT,Security Analyst,Ssr,CABA,L. Torres,2024-06-09 03:34:20.572993,1934172,2
+JR1586,Infrastructure,Security Analyst,Ssr,CABA,G. Duarte,2025-07-23 03:34:20.572993,1309779,1
+JR1587,Core Banking IT,Frontend Developer,Jr,CABA,F. Aguirre,2024-08-12 03:34:20.572993,2267133,1
+JR1588,Data & Analytics,Product Manager,Sr,GBA Norte,G. Duarte,2024-01-22 03:34:20.572993,1652082,1
+JR1589,Core Banking IT,Scrum Master,Jr,CABA,E. Sánchez,2025-09-19 03:34:20.572993,1534248,2
+JR1590,Payments,Frontend Developer,Sr,Rosario,L. Torres,2024-07-10 03:34:20.572993,2726369,1
+JR1591,Core Banking IT,Data Engineer,Ssr,CABA,E. Sánchez,2024-02-20 03:34:20.572993,1861440,2
+JR1592,Core Banking IT,Product Manager,Ssr,CABA,E. Sánchez,2025-09-25 03:34:20.572993,2393502,1
+JR1593,Payments,Product Manager,Ssr,CABA,J. Medina,2024-04-29 03:34:20.572993,3157021,2
+JR1594,Cybersecurity,QA Automation,Sr,CABA,L. Torres,2025-08-24 03:34:20.572993,4020207,1
+JR1595,Core Banking IT,Backend Developer,Ssr,CABA,E. Sánchez,2024-05-16 03:34:20.572993,3862521,1
+JR1596,Payments,Backend Developer,Ssr,CABA,F. Aguirre,2025-01-24 03:34:20.572993,2121872,1
+JR1597,Infrastructure,Product Manager,Jr,GBA Norte,E. Sánchez,2024-02-04 03:34:20.572993,1954981,1
+JR1598,Data & Analytics,Security Analyst,Ssr,CABA,F. Aguirre,2025-02-28 03:34:20.572993,1581325,2
+JR1599,Data & Analytics,QA Automation,Jr,GBA Norte,J. Medina,2024-01-01 03:34:20.572993,2013526,2
+JR1600,Core Banking IT,Scrum Master,Sr,GBA Sur,E. Sánchez,2024-02-29 03:34:20.572993,2163544,1
+JR1601,Cybersecurity,Product Manager,Ssr,CABA,G. Duarte,2023-12-23 03:34:20.572993,3626062,1
+JR1602,Cybersecurity,DevOps Engineer,Ssr,GBA Norte,J. Medina,2024-06-08 03:34:20.572993,3036309,1
+JR1603,Infrastructure,Fullstack Developer,Jr,Mendoza,F. Aguirre,2024-05-28 03:34:20.572993,1883970,2
+JR1604,Core Banking IT,Fullstack Developer,Jr,GBA Norte,J. Medina,2025-07-29 03:34:20.572993,1805751,2
+JR1605,Data & Analytics,Frontend Developer,Sr,Córdoba,E. Sánchez,2023-12-06 03:34:20.572993,2938614,1
+JR1606,Cybersecurity,Data Engineer,Jr,CABA,L. Torres,2024-09-04 03:34:20.572993,1673656,1
+JR1607,Core Banking IT,Cloud Engineer,Jr,Córdoba,L. Torres,2024-01-26 03:34:20.572993,2158379,1
+JR1608,Cybersecurity,Cloud Engineer,Jr,Córdoba,F. Aguirre,2024-03-26 03:34:20.572993,2274657,1
+JR1609,Payments,Fullstack Developer,Lead,GBA Norte,F. Aguirre,2023-11-30 03:34:20.572993,2272930,1
+JR1610,Cybersecurity,Data Scientist,Sr,Mendoza,L. Torres,2025-01-23 03:34:20.572993,1817585,1
+JR1611,Data & Analytics,Frontend Developer,Ssr,CABA,F. Aguirre,2024-06-08 03:34:20.572993,4101884,1
+JR1612,Digital Channels,Cloud Engineer,Jr,CABA,J. Medina,2025-05-14 03:34:20.572993,4410112,1
+JR1613,Infrastructure,Fullstack Developer,Jr,Córdoba,G. Duarte,2025-01-18 03:34:20.572993,2894548,1
+JR1614,Infrastructure,Data Engineer,Sr,Rosario,G. Duarte,2024-06-04 03:34:20.572993,4144476,1
+JR1615,Data & Analytics,Cloud Engineer,Ssr,CABA,J. Medina,2025-01-22 03:34:20.572993,3332677,1
+JR1616,Cybersecurity,Security Analyst,Jr,CABA,G. Duarte,2025-09-06 03:34:20.572993,4241188,1
+JR1617,Core Banking IT,Security Analyst,Jr,CABA,E. Sánchez,2023-12-22 03:34:20.572993,1206464,1
+JR1618,Cybersecurity,Backend Developer,Jr,CABA,J. Medina,2024-12-25 03:34:20.572993,2789426,1
+JR1619,Data & Analytics,Backend Developer,Ssr,Córdoba,F. Aguirre,2025-04-16 03:34:20.572993,3672724,1
+JR1620,Infrastructure,Scrum Master,Sr,GBA Norte,J. Medina,2025-07-12 03:34:20.572993,2361140,1
+JR1621,Cybersecurity,Product Manager,Jr,CABA,L. Torres,2025-01-10 03:34:20.572993,2618767,1
+JR1622,Infrastructure,DevOps Engineer,Jr,CABA,F. Aguirre,2024-08-11 03:34:20.572993,3854074,1
+JR1623,Core Banking IT,Backend Developer,Jr,CABA,L. Torres,2025-01-31 03:34:20.572993,3035068,1
+JR1624,Infrastructure,Cloud Engineer,Lead,CABA,F. Aguirre,2024-11-13 03:34:20.572993,3044277,1
+JR1625,Infrastructure,QA Automation,Jr,GBA Sur,G. Duarte,2024-06-17 03:34:20.572993,3491367,1
+JR1626,Digital Channels,Fullstack Developer,Sr,Mendoza,J. Medina,2025-06-09 03:34:20.572993,2795929,1
+JR1627,Digital Channels,QA Automation,Ssr,Rosario,E. Sánchez,2024-06-29 03:34:20.572993,1465039,2
+JR1628,Payments,Data Engineer,Ssr,CABA,F. Aguirre,2024-10-03 03:34:20.572993,2591579,2
+JR1629,Digital Channels,Backend Developer,Jr,Rosario,F. Aguirre,2025-01-26 03:34:20.572993,3276259,1
+JR1630,Infrastructure,DevOps Engineer,Jr,Córdoba,L. Torres,2024-01-01 03:34:20.572993,2167241,1
+JR1631,Data & Analytics,Data Engineer,Ssr,Córdoba,G. Duarte,2024-11-20 03:34:20.572993,3401279,1
+JR1632,Infrastructure,Data Scientist,Sr,GBA Norte,L. Torres,2024-07-30 03:34:20.572993,1296426,1
+JR1633,Data & Analytics,Data Scientist,Ssr,CABA,L. Torres,2024-08-03 03:34:20.572993,4246672,2
+JR1634,Data & Analytics,QA Automation,Ssr,CABA,G. Duarte,2024-11-03 03:34:20.572993,2440952,1
+JR1635,Digital Channels,Product Manager,Jr,CABA,E. Sánchez,2024-09-22 03:34:20.572993,2260538,1
+JR1636,Cybersecurity,Frontend Developer,Lead,CABA,L. Torres,2024-09-29 03:34:20.572993,3330454,1
+JR1637,Core Banking IT,Product Manager,Sr,CABA,L. Torres,2025-09-06 03:34:20.572993,2596102,1
+JR1638,Digital Channels,Cloud Engineer,Jr,GBA Norte,F. Aguirre,2025-08-23 03:34:20.572993,1204011,1
+JR1639,Digital Channels,Security Analyst,Lead,Córdoba,G. Duarte,2025-05-26 03:34:20.572993,3164724,1
+JR1640,Cybersecurity,Scrum Master,Ssr,GBA Norte,J. Medina,2025-07-31 03:34:20.572993,1219782,1
+JR1641,Core Banking IT,Product Manager,Ssr,CABA,E. Sánchez,2025-01-04 03:34:20.572993,3288097,1
+JR1642,Infrastructure,Scrum Master,Sr,Mendoza,E. Sánchez,2023-12-26 03:34:20.572993,1632941,1
+JR1643,Payments,Scrum Master,Sr,Mendoza,G. Duarte,2025-07-02 03:34:20.572993,2782060,1
+JR1644,Payments,DevOps Engineer,Ssr,Córdoba,F. Aguirre,2024-08-05 03:34:20.572993,4389187,2
+JR1645,Infrastructure,Backend Developer,Jr,Mendoza,F. Aguirre,2025-07-03 03:34:20.572993,3908685,1
+JR1646,Digital Channels,DevOps Engineer,Jr,GBA Norte,G. Duarte,2024-11-25 03:34:20.572993,3819981,2
+JR1647,Core Banking IT,Scrum Master,Sr,Mendoza,F. Aguirre,2024-03-07 03:34:20.572993,1803151,1
+JR1648,Digital Channels,Data Engineer,Jr,CABA,E. Sánchez,2025-05-29 03:34:20.572993,4206790,1
+JR1649,Data & Analytics,Data Scientist,Ssr,CABA,E. Sánchez,2024-03-05 03:34:20.572993,3023327,1
+JR1650,Digital Channels,Scrum Master,Ssr,CABA,J. Medina,2025-08-01 03:34:20.572993,4378497,1
+JR1651,Digital Channels,DevOps Engineer,Ssr,CABA,G. Duarte,2024-07-27 03:34:20.572993,3666825,2
+JR1652,Infrastructure,Data Engineer,Ssr,CABA,L. Torres,2024-01-24 03:34:20.572993,4370428,1
+JR1653,Infrastructure,DevOps Engineer,Sr,GBA Sur,L. Torres,2025-03-04 03:34:20.572993,2984292,1
+JR1654,Infrastructure,Product Manager,Jr,Córdoba,J. Medina,2024-09-10 03:34:20.572993,4291083,1
+JR1655,Payments,Fullstack Developer,Jr,GBA Sur,J. Medina,2023-11-17 03:34:20.572993,3528389,1
+JR1656,Data & Analytics,QA Automation,Jr,CABA,F. Aguirre,2024-11-10 03:34:20.572993,3040277,1
+JR1657,Infrastructure,Frontend Developer,Sr,Rosario,J. Medina,2025-08-05 03:34:20.572993,2108063,1
+JR1658,Core Banking IT,Security Analyst,Ssr,GBA Sur,J. Medina,2025-04-16 03:34:20.572993,1506024,2
+JR1659,Payments,DevOps Engineer,Jr,CABA,L. Torres,2024-10-23 03:34:20.572993,1314003,1
+JR1660,Cybersecurity,Frontend Developer,Sr,Córdoba,F. Aguirre,2025-01-21 03:34:20.572993,2387968,1
+JR1661,Core Banking IT,Data Analyst,Sr,CABA,J. Medina,2024-06-12 03:34:20.572993,3346741,1
+JR1662,Core Banking IT,DevOps Engineer,Sr,CABA,J. Medina,2025-01-12 03:34:20.572993,1450606,1
+JR1663,Infrastructure,Fullstack Developer,Sr,Rosario,F. Aguirre,2025-03-22 03:34:20.572993,1931636,1
+JR1664,Cybersecurity,Frontend Developer,Jr,CABA,G. Duarte,2025-05-03 03:34:20.572993,1760185,1
+JR1665,Cybersecurity,Security Analyst,Sr,GBA Norte,F. Aguirre,2024-11-11 03:34:20.572993,3486789,1
+JR1666,Payments,Scrum Master,Ssr,Rosario,L. Torres,2024-09-18 03:34:20.572993,1886290,1
+JR1667,Cybersecurity,DevOps Engineer,Sr,Córdoba,G. Duarte,2025-05-01 03:34:20.572993,2961169,1
+JR1668,Data & Analytics,Backend Developer,Sr,CABA,E. Sánchez,2024-01-03 03:34:20.572993,3049388,1
+JR1669,Infrastructure,QA Automation,Sr,CABA,F. Aguirre,2025-05-04 03:34:20.572993,2980832,1
+JR1670,Cybersecurity,Fullstack Developer,Ssr,CABA,L. Torres,2025-02-19 03:34:20.572993,4416662,1
+JR1671,Payments,Cloud Engineer,Jr,GBA Sur,G. Duarte,2024-04-22 03:34:20.572993,3877270,2
+JR1672,Data & Analytics,Cloud Engineer,Ssr,CABA,F. Aguirre,2024-10-09 03:34:20.572993,3564825,1
+JR1673,Digital Channels,Frontend Developer,Lead,CABA,J. Medina,2025-05-10 03:34:20.572993,3653894,1
+JR1674,Digital Channels,Fullstack Developer,Sr,Mendoza,F. Aguirre,2024-10-23 03:34:20.572993,1957582,1
+JR1675,Data & Analytics,Data Engineer,Jr,GBA Norte,E. Sánchez,2024-08-09 03:34:20.572993,3380139,1
+JR1676,Payments,Security Analyst,Jr,CABA,F. Aguirre,2024-12-28 03:34:20.572993,4483737,1
+JR1677,Data & Analytics,QA Automation,Jr,GBA Norte,G. Duarte,2025-03-24 03:34:20.572993,2632672,1
+JR1678,Infrastructure,Scrum Master,Sr,Córdoba,G. Duarte,2024-02-11 03:34:20.572993,1764174,1
+JR1679,Infrastructure,DevOps Engineer,Sr,CABA,F. Aguirre,2025-09-25 03:34:20.572993,2822563,1
+JR1680,Digital Channels,DevOps Engineer,Jr,CABA,G. Duarte,2024-01-28 03:34:20.572993,2849260,1
+JR1681,Cybersecurity,Cloud Engineer,Ssr,Rosario,J. Medina,2025-07-24 03:34:20.572993,2863542,1
+JR1682,Payments,DevOps Engineer,Sr,GBA Norte,F. Aguirre,2024-06-14 03:34:20.572993,3846719,1
+JR1683,Digital Channels,QA Automation,Sr,GBA Norte,J. Medina,2024-11-02 03:34:20.572993,3728474,1
+JR1684,Cybersecurity,Backend Developer,Ssr,CABA,J. Medina,2025-07-20 03:34:20.572993,3407928,1
+JR1685,Cybersecurity,Data Analyst,Ssr,CABA,L. Torres,2025-03-31 03:34:20.572993,3665596,1
+JR1686,Infrastructure,Data Scientist,Ssr,CABA,F. Aguirre,2025-05-22 03:34:20.572993,4459521,2
+JR1687,Core Banking IT,Product Manager,Jr,CABA,G. Duarte,2024-05-09 03:34:20.572993,1410809,2
+JR1688,Core Banking IT,Frontend Developer,Ssr,CABA,J. Medina,2025-06-08 03:34:20.572993,2420192,2
+JR1689,Data & Analytics,Backend Developer,Ssr,CABA,L. Torres,2024-07-13 03:34:20.572993,2613967,1
+JR1690,Infrastructure,Scrum Master,Sr,Rosario,F. Aguirre,2024-07-11 03:34:20.572993,1733285,1
+JR1691,Cybersecurity,Cloud Engineer,Ssr,Mendoza,F. Aguirre,2025-03-30 03:34:20.572993,4451830,2
+JR1692,Payments,Frontend Developer,Sr,Córdoba,E. Sánchez,2025-01-05 03:34:20.572993,2072143,1
+JR1693,Core Banking IT,DevOps Engineer,Jr,Rosario,E. Sánchez,2024-09-25 03:34:20.572993,3862300,1
+JR1694,Cybersecurity,Fullstack Developer,Ssr,CABA,J. Medina,2024-02-05 03:34:20.572993,2882978,1
+JR1695,Core Banking IT,Scrum Master,Jr,Mendoza,E. Sánchez,2024-06-14 03:34:20.572993,4274126,2
+JR1696,Core Banking IT,Frontend Developer,Jr,CABA,J. Medina,2025-03-14 03:34:20.572993,3934658,1
+JR1697,Core Banking IT,Security Analyst,Sr,Mendoza,G. Duarte,2025-04-12 03:34:20.572993,3819222,1
+JR1698,Payments,DevOps Engineer,Lead,Mendoza,J. Medina,2024-08-14 03:34:20.572993,3135772,1
+JR1699,Infrastructure,Frontend Developer,Jr,Córdoba,E. Sánchez,2024-04-27 03:34:20.572993,3404193,2
+JR1700,Payments,Fullstack Developer,Ssr,Mendoza,G. Duarte,2024-10-05 03:34:20.572993,1574368,1
+JR1701,Digital Channels,Security Analyst,Sr,GBA Norte,E. Sánchez,2025-08-21 03:34:20.572993,3622952,1
+JR1702,Cybersecurity,DevOps Engineer,Jr,CABA,J. Medina,2025-01-24 03:34:20.572993,4013590,1
+JR1703,Infrastructure,Data Analyst,Ssr,CABA,L. Torres,2024-12-05 03:34:20.572993,3779014,2
+JR1704,Infrastructure,Backend Developer,Sr,GBA Sur,F. Aguirre,2025-03-20 03:34:20.572993,4422018,1
+JR1705,Infrastructure,Data Engineer,Ssr,CABA,E. Sánchez,2024-11-25 03:34:20.572993,4402361,1
+JR1706,Infrastructure,Cloud Engineer,Jr,GBA Sur,J. Medina,2024-09-11 03:34:20.572993,3061663,2
+JR1707,Payments,Product Manager,Ssr,Mendoza,G. Duarte,2025-09-13 03:34:20.572993,2369694,1
+JR1708,Infrastructure,QA Automation,Sr,CABA,E. Sánchez,2025-04-06 03:34:20.572993,3996113,1
+JR1709,Data & Analytics,Cloud Engineer,Ssr,Córdoba,E. Sánchez,2024-05-16 03:34:20.572993,2251690,1
+JR1710,Cybersecurity,Product Manager,Jr,Rosario,F. Aguirre,2025-04-09 03:34:20.572993,4110086,1
+JR1711,Infrastructure,Scrum Master,Sr,Mendoza,J. Medina,2025-08-15 03:34:20.572993,1249768,1
+JR1712,Cybersecurity,Product Manager,Jr,Mendoza,L. Torres,2025-01-10 03:34:20.572993,2661820,1
+JR1713,Data & Analytics,DevOps Engineer,Sr,GBA Norte,G. Duarte,2025-03-26 03:34:20.572993,2173069,1
+JR1714,Data & Analytics,Data Analyst,Jr,Mendoza,J. Medina,2024-07-27 03:34:20.572993,3380275,1
+JR1715,Cybersecurity,Data Engineer,Lead,Córdoba,G. Duarte,2025-04-06 03:34:20.572993,3463557,1
+JR1716,Core Banking IT,Backend Developer,Ssr,CABA,E. Sánchez,2024-01-20 03:34:20.572993,3300326,1
+JR1717,Digital Channels,Backend Developer,Jr,GBA Norte,F. Aguirre,2025-03-02 03:34:20.572993,1317769,1
+JR1718,Core Banking IT,Fullstack Developer,Jr,Córdoba,F. Aguirre,2024-05-06 03:34:20.572993,1497542,1
+JR1719,Core Banking IT,QA Automation,Jr,CABA,L. Torres,2025-02-09 03:34:20.572993,3726297,2
+JR1720,Payments,Frontend Developer,Sr,GBA Sur,F. Aguirre,2024-05-17 03:34:20.572993,4481121,1
+JR1721,Core Banking IT,Data Analyst,Lead,Córdoba,E. Sánchez,2024-08-27 03:34:20.572993,2634269,1
+JR1722,Infrastructure,Frontend Developer,Ssr,CABA,L. Torres,2025-04-13 03:34:20.572993,1966868,1
+JR1723,Payments,Data Engineer,Ssr,GBA Norte,J. Medina,2024-08-28 03:34:20.572993,2435069,1
+JR1724,Payments,Product Manager,Sr,Córdoba,F. Aguirre,2025-08-06 03:34:20.572993,3894075,1
+JR1725,Data & Analytics,Backend Developer,Sr,GBA Norte,L. Torres,2024-08-19 03:34:20.572993,3058768,1
+JR1726,Core Banking IT,Data Engineer,Ssr,CABA,E. Sánchez,2025-05-07 03:34:20.572993,2128864,1
+JR1727,Data & Analytics,Product Manager,Ssr,CABA,G. Duarte,2024-11-21 03:34:20.572993,2914249,2
+JR1728,Cybersecurity,Backend Developer,Ssr,CABA,G. Duarte,2025-08-29 03:34:20.572993,1967166,1
+JR1729,Digital Channels,Product Manager,Ssr,Mendoza,E. Sánchez,2024-04-14 03:34:20.572993,3514222,1
+JR1730,Payments,QA Automation,Jr,CABA,E. Sánchez,2025-04-01 03:34:20.572993,1599017,2
+JR1731,Cybersecurity,Data Analyst,Ssr,GBA Sur,G. Duarte,2024-12-27 03:34:20.572993,2131775,1
+JR1732,Cybersecurity,Cloud Engineer,Ssr,CABA,L. Torres,2025-04-21 03:34:20.572993,2657867,2
+JR1733,Infrastructure,Security Analyst,Sr,CABA,G. Duarte,2024-10-30 03:34:20.572993,2744247,1
+JR1734,Digital Channels,Scrum Master,Jr,Rosario,E. Sánchez,2025-05-22 03:34:20.572993,3666511,2
+JR1735,Cybersecurity,Data Engineer,Ssr,Córdoba,F. Aguirre,2024-05-15 03:34:20.572993,4495784,1
+JR1736,Cybersecurity,Data Engineer,Ssr,CABA,J. Medina,2023-12-11 03:34:20.572993,4171679,1
+JR1737,Digital Channels,Security Analyst,Ssr,CABA,F. Aguirre,2024-07-27 03:34:20.572993,2047374,1
+JR1738,Digital Channels,Cloud Engineer,Jr,CABA,F. Aguirre,2025-01-04 03:34:20.572993,3441085,1
+JR1739,Cybersecurity,Data Scientist,Ssr,GBA Norte,E. Sánchez,2025-04-22 03:34:20.572993,4444698,1
+JR1740,Digital Channels,DevOps Engineer,Ssr,Córdoba,G. Duarte,2025-05-14 03:34:20.572993,4427931,1
+JR1741,Cybersecurity,QA Automation,Ssr,CABA,L. Torres,2024-09-09 03:34:20.572993,2448749,1
+JR1742,Cybersecurity,QA Automation,Ssr,CABA,F. Aguirre,2023-12-19 03:34:20.572993,3799098,1
+JR1743,Infrastructure,Security Analyst,Ssr,CABA,G. Duarte,2025-03-13 03:34:20.572993,1876337,2
+JR1744,Core Banking IT,Frontend Developer,Sr,Rosario,L. Torres,2025-08-15 03:34:20.572993,3223553,1
+JR1745,Cybersecurity,Product Manager,Jr,Mendoza,F. Aguirre,2025-05-05 03:34:20.572993,2466302,1
+JR1746,Data & Analytics,DevOps Engineer,Sr,CABA,L. Torres,2025-09-10 03:34:20.572993,3296419,1
+JR1747,Payments,Data Analyst,Ssr,Córdoba,G. Duarte,2024-08-14 03:34:20.572993,4171761,1
+JR1748,Core Banking IT,Data Analyst,Jr,CABA,J. Medina,2024-05-31 03:34:20.572993,1292172,1
+JR1749,Core Banking IT,Security Analyst,Jr,CABA,G. Duarte,2024-01-15 03:34:20.572993,1870990,1
+JR1750,Core Banking IT,QA Automation,Jr,Córdoba,E. Sánchez,2024-02-26 03:34:20.572993,1744344,2
+JR1751,Infrastructure,Data Analyst,Sr,Rosario,L. Torres,2024-08-04 03:34:20.572993,2387030,1
+JR1752,Cybersecurity,Data Scientist,Sr,Mendoza,J. Medina,2024-06-19 03:34:20.572993,2304315,1
+JR1753,Infrastructure,Data Engineer,Sr,GBA Sur,L. Torres,2025-04-23 03:34:20.572993,1248639,1
+JR1754,Cybersecurity,Fullstack Developer,Ssr,CABA,L. Torres,2024-02-08 03:34:20.572993,3750206,1
+JR1755,Infrastructure,Scrum Master,Ssr,Córdoba,F. Aguirre,2024-07-22 03:34:20.572993,3736409,1
+JR1756,Infrastructure,Security Analyst,Jr,CABA,E. Sánchez,2025-02-07 03:34:20.572993,4084576,1
+JR1757,Payments,Frontend Developer,Jr,GBA Norte,L. Torres,2024-07-20 03:34:20.572993,1796682,1
+JR1758,Data & Analytics,Product Manager,Ssr,CABA,G. Duarte,2024-07-24 03:34:20.572993,1529801,1
+JR1759,Infrastructure,Scrum Master,Jr,Córdoba,G. Duarte,2024-11-27 03:34:20.572993,4110744,1
+JR1760,Payments,Product Manager,Jr,CABA,F. Aguirre,2025-01-25 03:34:20.572993,3080164,1
+JR1761,Digital Channels,Backend Developer,Ssr,CABA,E. Sánchez,2025-07-01 03:34:20.572993,1382447,2
+JR1762,Data & Analytics,Scrum Master,Sr,Rosario,E. Sánchez,2024-02-08 03:34:20.572993,3645738,1
+JR1763,Infrastructure,Fullstack Developer,Lead,CABA,G. Duarte,2024-12-04 03:34:20.572993,1874932,1
+JR1764,Core Banking IT,QA Automation,Sr,GBA Norte,J. Medina,2025-06-14 03:34:20.572993,1580069,1
+JR1765,Digital Channels,Data Scientist,Ssr,CABA,F. Aguirre,2023-12-24 03:34:20.572993,1204136,1
+JR1766,Digital Channels,Data Engineer,Ssr,CABA,F. Aguirre,2025-09-04 03:34:20.572993,3359020,1
+JR1767,Payments,Data Engineer,Ssr,CABA,G. Duarte,2025-06-30 03:34:20.572993,3641559,1
+JR1768,Digital Channels,Data Scientist,Sr,CABA,G. Duarte,2023-11-29 03:34:20.572993,4115751,1
+JR1769,Data & Analytics,DevOps Engineer,Jr,Rosario,J. Medina,2024-02-19 03:34:20.572993,1310957,2
+JR1770,Infrastructure,Backend Developer,Ssr,CABA,J. Medina,2025-07-09 03:34:20.572993,1739767,1
+JR1771,Infrastructure,Product Manager,Sr,Mendoza,E. Sánchez,2024-11-01 03:34:20.572993,1319392,1
+JR1772,Core Banking IT,Fullstack Developer,Ssr,GBA Sur,F. Aguirre,2025-05-05 03:34:20.572993,1860183,2
+JR1773,Payments,Data Analyst,Ssr,CABA,F. Aguirre,2023-12-13 03:34:20.572993,4077668,1
+JR1774,Core Banking IT,Scrum Master,Ssr,GBA Sur,G. Duarte,2024-06-26 03:34:20.572993,2450104,2
+JR1775,Digital Channels,Backend Developer,Jr,GBA Norte,E. Sánchez,2025-04-17 03:34:20.572993,2006017,2
+JR1776,Core Banking IT,Security Analyst,Ssr,Córdoba,F. Aguirre,2025-08-01 03:34:20.572993,3183352,1
+JR1777,Data & Analytics,Scrum Master,Jr,CABA,E. Sánchez,2024-04-13 03:34:20.572993,3061627,1
+JR1778,Infrastructure,Fullstack Developer,Jr,CABA,E. Sánchez,2025-01-06 03:34:20.572993,2061501,1
+JR1779,Digital Channels,Frontend Developer,Jr,Rosario,G. Duarte,2024-07-13 03:34:20.572993,1465864,1
+JR1780,Core Banking IT,Frontend Developer,Sr,Mendoza,E. Sánchez,2024-12-19 03:34:20.572993,1481411,1
+JR1781,Payments,Backend Developer,Jr,Rosario,J. Medina,2025-05-04 03:34:20.572993,2395344,2
+JR1782,Data & Analytics,QA Automation,Ssr,CABA,J. Medina,2024-04-19 03:34:20.572993,1885328,2
+JR1783,Data & Analytics,Fullstack Developer,Jr,Córdoba,L. Torres,2024-03-06 03:34:20.572993,3612660,2
+JR1784,Core Banking IT,Fullstack Developer,Sr,GBA Norte,G. Duarte,2024-08-07 03:34:20.572993,1616561,1
+JR1785,Infrastructure,Data Scientist,Jr,GBA Norte,L. Torres,2025-03-11 03:34:20.572993,1251567,2
+JR1786,Core Banking IT,QA Automation,Ssr,CABA,J. Medina,2024-04-30 03:34:20.572993,3388381,2
+JR1787,Digital Channels,Product Manager,Sr,GBA Sur,L. Torres,2024-08-10 03:34:20.572993,4276263,1
+JR1788,Core Banking IT,Product Manager,Sr,CABA,G. Duarte,2024-07-26 03:34:20.572993,2725450,1
+JR1789,Data & Analytics,Data Analyst,Jr,CABA,G. Duarte,2024-03-24 03:34:20.572993,2969361,1
+JR1790,Core Banking IT,Data Engineer,Sr,Rosario,E. Sánchez,2025-09-23 03:34:20.572993,4162102,1
+JR1791,Infrastructure,Frontend Developer,Ssr,CABA,F. Aguirre,2025-01-05 03:34:20.572993,1807132,1
+JR1792,Payments,Security Analyst,Ssr,CABA,E. Sánchez,2025-01-04 03:34:20.572993,2412567,2
+JR1793,Cybersecurity,Product Manager,Jr,CABA,G. Duarte,2024-05-14 03:34:20.572993,2830060,1
+JR1794,Core Banking IT,QA Automation,Jr,Mendoza,J. Medina,2024-11-08 03:34:20.572993,3937040,2
+JR1795,Infrastructure,Fullstack Developer,Sr,GBA Norte,J. Medina,2025-07-09 03:34:20.572993,1824913,1
+JR1796,Infrastructure,Security Analyst,Ssr,CABA,E. Sánchez,2024-11-22 03:34:20.572993,2721193,1
+JR1797,Payments,Cloud Engineer,Ssr,Rosario,G. Duarte,2025-04-16 03:34:20.572993,2117999,1
+JR1798,Data & Analytics,Product Manager,Sr,Rosario,J. Medina,2025-06-12 03:34:20.572993,4128339,1
+JR1799,Infrastructure,Fullstack Developer,Sr,CABA,G. Duarte,2024-05-24 03:34:20.572993,3233764,1
+JR1800,Infrastructure,Product Manager,Jr,Córdoba,J. Medina,2024-02-16 03:34:20.572993,4379052,1
+JR1801,Infrastructure,Frontend Developer,Ssr,Córdoba,G. Duarte,2025-07-07 03:34:20.572993,4162513,1
+JR1802,Infrastructure,Cloud Engineer,Jr,Córdoba,L. Torres,2023-12-02 03:34:20.572993,1594768,1
+JR1803,Digital Channels,Scrum Master,Sr,CABA,G. Duarte,2025-02-02 03:34:20.572993,1251272,1
+JR1804,Digital Channels,Product Manager,Ssr,Rosario,G. Duarte,2024-04-30 03:34:20.572993,3726221,1
+JR1805,Data & Analytics,QA Automation,Lead,GBA Norte,E. Sánchez,2024-11-27 03:34:20.572993,1449264,1
+JR1806,Core Banking IT,Product Manager,Jr,CABA,L. Torres,2024-03-23 03:34:20.572993,3985436,2
+JR1807,Infrastructure,Data Engineer,Jr,CABA,F. Aguirre,2025-01-09 03:34:20.572993,1436538,1
+JR1808,Payments,Security Analyst,Jr,CABA,E. Sánchez,2023-12-05 03:34:20.572993,3876115,2
+JR1809,Core Banking IT,Security Analyst,Jr,CABA,F. Aguirre,2025-03-27 03:34:20.572993,1715447,2
+JR1810,Payments,Frontend Developer,Jr,Córdoba,J. Medina,2024-05-13 03:34:20.572993,4419319,1
+JR1811,Core Banking IT,QA Automation,Sr,CABA,F. Aguirre,2024-02-03 03:34:20.572993,1353706,1
+JR1812,Data & Analytics,Cloud Engineer,Jr,CABA,G. Duarte,2025-05-30 03:34:20.572993,3636300,1
+JR1813,Infrastructure,Data Scientist,Jr,GBA Norte,F. Aguirre,2024-04-02 03:34:20.572993,2173902,2
+JR1814,Infrastructure,QA Automation,Sr,CABA,E. Sánchez,2025-09-19 03:34:20.572993,1953818,1
+JR1815,Cybersecurity,Security Analyst,Ssr,Mendoza,E. Sánchez,2024-12-26 03:34:20.572993,2027150,1
+JR1816,Payments,Data Engineer,Sr,CABA,F. Aguirre,2024-06-21 03:34:20.572993,4459355,1
+JR1817,Core Banking IT,Scrum Master,Jr,CABA,E. Sánchez,2024-06-17 03:34:20.572993,2986852,1
+JR1818,Core Banking IT,Frontend Developer,Ssr,CABA,E. Sánchez,2024-05-07 03:34:20.572993,3586166,2
+JR1819,Digital Channels,Data Scientist,Jr,CABA,F. Aguirre,2025-08-02 03:34:20.572993,4383122,2
+JR1820,Cybersecurity,Data Engineer,Jr,CABA,L. Torres,2025-01-16 03:34:20.572993,2038489,1
+JR1821,Digital Channels,Cloud Engineer,Sr,Córdoba,L. Torres,2024-08-01 03:34:20.572993,2328371,1
+JR1822,Digital Channels,Cloud Engineer,Jr,Mendoza,J. Medina,2025-01-12 03:34:20.572993,1542553,1
+JR1823,Digital Channels,Data Engineer,Ssr,CABA,E. Sánchez,2025-09-02 03:34:20.572993,1242137,1
+JR1824,Payments,Backend Developer,Ssr,Córdoba,F. Aguirre,2024-12-30 03:34:20.572993,2641945,2
+JR1825,Payments,Frontend Developer,Jr,Córdoba,E. Sánchez,2025-02-05 03:34:20.572993,1338925,1
+JR1826,Data & Analytics,QA Automation,Sr,Rosario,G. Duarte,2024-05-25 03:34:20.572993,3833819,1
+JR1827,Data & Analytics,Fullstack Developer,Jr,CABA,E. Sánchez,2025-05-17 03:34:20.572993,2133296,1
+JR1828,Digital Channels,Scrum Master,Ssr,CABA,E. Sánchez,2024-01-02 03:34:20.572993,3418321,2
+JR1829,Cybersecurity,Fullstack Developer,Lead,CABA,L. Torres,2025-03-04 03:34:20.572993,2418015,1
+JR1830,Core Banking IT,QA Automation,Ssr,Córdoba,F. Aguirre,2025-01-26 03:34:20.572993,4494900,1
+JR1831,Payments,QA Automation,Sr,Rosario,E. Sánchez,2024-10-05 03:34:20.572993,1575233,1
+JR1832,Cybersecurity,Frontend Developer,Jr,CABA,L. Torres,2024-07-18 03:34:20.572993,2180960,2
+JR1833,Infrastructure,QA Automation,Ssr,CABA,J. Medina,2024-03-12 03:34:20.572993,2783913,2
+JR1834,Payments,Security Analyst,Jr,Rosario,L. Torres,2024-12-01 03:34:20.572993,3760272,1
+JR1835,Payments,Backend Developer,Sr,Rosario,L. Torres,2024-10-14 03:34:20.572993,2934635,1
+JR1836,Data & Analytics,Data Scientist,Lead,Mendoza,L. Torres,2024-10-23 03:34:20.572993,3157792,1
+JR1837,Core Banking IT,QA Automation,Jr,Córdoba,E. Sánchez,2023-12-09 03:34:20.572993,2034123,1
+JR1838,Core Banking IT,Fullstack Developer,Ssr,CABA,E. Sánchez,2023-12-15 03:34:20.572993,2416688,1
+JR1839,Infrastructure,QA Automation,Jr,GBA Sur,J. Medina,2025-04-11 03:34:20.572993,4070967,2
+JR1840,Infrastructure,Cloud Engineer,Ssr,Córdoba,G. Duarte,2024-12-10 03:34:20.572993,1424062,1
+JR1841,Payments,Backend Developer,Ssr,CABA,G. Duarte,2025-07-25 03:34:20.572993,3355138,2
+JR1842,Digital Channels,Security Analyst,Lead,GBA Norte,G. Duarte,2024-08-30 03:34:20.572993,1631978,1
+JR1843,Data & Analytics,Security Analyst,Ssr,Córdoba,J. Medina,2025-06-21 03:34:20.572993,2927536,2
+JR1844,Data & Analytics,Product Manager,Jr,CABA,G. Duarte,2024-10-24 03:34:20.572993,2989639,2
+JR1845,Payments,Security Analyst,Jr,Córdoba,G. Duarte,2024-04-05 03:34:20.572993,2353891,1
+JR1846,Cybersecurity,Product Manager,Jr,GBA Sur,L. Torres,2024-01-16 03:34:20.572993,3616500,1
+JR1847,Digital Channels,Data Engineer,Jr,Mendoza,E. Sánchez,2025-04-13 03:34:20.572993,1902214,1
+JR1848,Payments,Scrum Master,Jr,CABA,E. Sánchez,2024-03-11 03:34:20.572993,2716589,1
+JR1849,Digital Channels,Data Analyst,Sr,CABA,L. Torres,2024-10-15 03:34:20.572993,2988205,1
+JR1850,Digital Channels,Security Analyst,Ssr,GBA Sur,L. Torres,2024-05-03 03:34:20.572993,3992291,1
+JR1851,Digital Channels,Data Scientist,Ssr,CABA,L. Torres,2025-10-01 03:34:20.572993,2960143,2
+JR1852,Payments,Cloud Engineer,Jr,Córdoba,E. Sánchez,2025-06-29 03:34:20.572993,1425687,1
+JR1853,Data & Analytics,DevOps Engineer,Sr,Córdoba,G. Duarte,2025-02-03 03:34:20.572993,2544700,1
+JR1854,Data & Analytics,Data Engineer,Sr,CABA,L. Torres,2025-05-20 03:34:20.572993,4139701,1
+JR1855,Digital Channels,Security Analyst,Jr,GBA Norte,J. Medina,2024-03-25 03:34:20.572993,3442365,2
+JR1856,Cybersecurity,Scrum Master,Sr,GBA Norte,L. Torres,2023-11-26 03:34:20.572993,3961856,1
+JR1857,Core Banking IT,Product Manager,Ssr,CABA,F. Aguirre,2024-10-08 03:34:20.572993,3271088,2
+JR1858,Payments,Fullstack Developer,Jr,Mendoza,L. Torres,2024-05-23 03:34:20.572993,3313048,1
+JR1859,Core Banking IT,DevOps Engineer,Ssr,Rosario,E. Sánchez,2025-03-20 03:34:20.572993,3386505,1
+JR1860,Cybersecurity,Scrum Master,Ssr,Córdoba,L. Torres,2023-11-19 03:34:20.572993,1229813,1
+JR1861,Payments,Scrum Master,Jr,Córdoba,F. Aguirre,2024-10-09 03:34:20.572993,4411407,1
+JR1862,Digital Channels,Security Analyst,Sr,GBA Norte,J. Medina,2024-10-08 03:34:20.572993,1866041,1
+JR1863,Data & Analytics,Data Engineer,Sr,Mendoza,G. Duarte,2024-10-02 03:34:20.572993,2976839,1
+JR1864,Core Banking IT,DevOps Engineer,Ssr,Córdoba,L. Torres,2023-11-25 03:34:20.572993,2646374,1
+JR1865,Infrastructure,Frontend Developer,Ssr,Córdoba,F. Aguirre,2025-07-16 03:34:20.572993,3506907,2
+JR1866,Infrastructure,Data Analyst,Ssr,Rosario,F. Aguirre,2024-06-23 03:34:20.572993,1473541,1
+JR1867,Cybersecurity,Frontend Developer,Ssr,CABA,J. Medina,2025-01-08 03:34:20.572993,3652550,1
+JR1868,Digital Channels,Cloud Engineer,Ssr,Rosario,E. Sánchez,2024-12-22 03:34:20.572993,2686056,2
+JR1869,Core Banking IT,DevOps Engineer,Jr,CABA,L. Torres,2024-03-02 03:34:20.572993,2815181,1
+JR1870,Digital Channels,Frontend Developer,Ssr,CABA,F. Aguirre,2025-01-11 03:34:20.572993,3512857,1
+JR1871,Core Banking IT,Security Analyst,Sr,CABA,J. Medina,2023-11-11 03:34:20.572993,4338893,1
+JR1872,Cybersecurity,Backend Developer,Ssr,Mendoza,G. Duarte,2024-08-02 03:34:20.572993,2550816,2
+JR1873,Cybersecurity,Product Manager,Jr,Rosario,F. Aguirre,2025-03-15 03:34:20.572993,3613081,2
+JR1874,Infrastructure,Backend Developer,Sr,Córdoba,J. Medina,2024-06-05 03:34:20.572993,3349496,1
+JR1875,Digital Channels,QA Automation,Jr,Córdoba,E. Sánchez,2025-07-24 03:34:20.572993,1970348,1
+JR1876,Payments,Frontend Developer,Jr,GBA Norte,E. Sánchez,2024-11-13 03:34:20.572993,3773011,2
+JR1877,Infrastructure,Cloud Engineer,Jr,Mendoza,F. Aguirre,2024-09-11 03:34:20.572993,2106814,1
+JR1878,Digital Channels,QA Automation,Jr,GBA Norte,F. Aguirre,2023-11-22 03:34:20.572993,4021058,1
+JR1879,Infrastructure,Fullstack Developer,Sr,CABA,L. Torres,2024-10-20 03:34:20.572993,3237171,1
+JR1880,Payments,Data Scientist,Ssr,CABA,J. Medina,2025-02-17 03:34:20.572993,1658819,1
+JR1881,Data & Analytics,Fullstack Developer,Jr,Córdoba,F. Aguirre,2025-09-06 03:34:20.572993,2408060,1
+JR1882,Data & Analytics,DevOps Engineer,Sr,Córdoba,L. Torres,2025-03-18 03:34:20.572993,2359065,1
+JR1883,Data & Analytics,Scrum Master,Sr,CABA,L. Torres,2024-11-12 03:34:20.572993,1644874,1
+JR1884,Data & Analytics,Product Manager,Sr,CABA,F. Aguirre,2025-01-03 03:34:20.572993,2691341,1
+JR1885,Core Banking IT,Frontend Developer,Jr,Rosario,E. Sánchez,2024-04-29 03:34:20.572993,3308701,2
+JR1886,Data & Analytics,Cloud Engineer,Ssr,CABA,J. Medina,2024-03-23 03:34:20.572993,3322891,1
+JR1887,Payments,Cloud Engineer,Lead,Córdoba,J. Medina,2025-01-10 03:34:20.572993,2007641,1
+JR1888,Cybersecurity,Data Engineer,Sr,Mendoza,E. Sánchez,2023-12-05 03:34:20.572993,3928491,1
+JR1889,Cybersecurity,Data Scientist,Jr,CABA,F. Aguirre,2025-04-23 03:34:20.572993,3254048,2
+JR1890,Core Banking IT,Data Analyst,Jr,CABA,J. Medina,2024-05-18 03:34:20.572993,2263692,1
+JR1891,Data & Analytics,Data Analyst,Ssr,Córdoba,F. Aguirre,2024-03-30 03:34:20.572993,1744333,1
+JR1892,Data & Analytics,Data Analyst,Sr,Rosario,F. Aguirre,2025-05-18 03:34:20.572993,2143831,1
+JR1893,Data & Analytics,Frontend Developer,Ssr,GBA Norte,L. Torres,2025-08-29 03:34:20.572993,1235709,1
+JR1894,Infrastructure,Data Analyst,Ssr,Mendoza,E. Sánchez,2024-09-20 03:34:20.572993,3078625,2
+JR1895,Digital Channels,Security Analyst,Jr,CABA,F. Aguirre,2025-01-27 03:34:20.572993,4274795,1
+JR1896,Infrastructure,Backend Developer,Ssr,GBA Norte,G. Duarte,2024-09-24 03:34:20.572993,2930841,1
+JR1897,Digital Channels,Cloud Engineer,Sr,Córdoba,E. Sánchez,2025-01-24 03:34:20.572993,2181652,1
+JR1898,Data & Analytics,Data Scientist,Ssr,Rosario,J. Medina,2024-02-10 03:34:20.572993,1429167,1
+JR1899,Data & Analytics,Backend Developer,Sr,CABA,L. Torres,2024-05-07 03:34:20.572993,1505063,1
