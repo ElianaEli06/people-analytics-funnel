@@ -1,0 +1,12 @@
+# Ignorar la carpeta del entorno virtual (la más pesada)
+.venv/
+venv/
+env/
+
+# Ignorar archivos temporales de Python
+__pycache__/
+*.py[cod]
+
+# Ignorar archivos de configuración del sistema
+.DS_Store
+Thumbs.db
