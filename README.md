@@ -1,22 +1,28 @@
-# 📊 Proyecto de People Analytics: Auditoría de Reclutamiento y Calidad
+# 📊 People Analytics — Auditoría de Reclutamiento
 
-## 🌟 ¿De qué se trata esto?
-¡Hola! Soy Eliana. En este proyecto me puse el equipo al hombro para transformar datos de RRHH que estaban totalmente sueltos en un **Master Dataset** estratégico. 
+## 🌟 ¿De qué se trata?
+Soy Eliana, Licenciada en Gestión de Capital Humano. En este proyecto analicé 
+el proceso de reclutamiento end-to-end de una empresa tech, transformando 
+7 fuentes de datos en insights accionables para el negocio.
 
-Usando **Python**, audité más de 11.000 candidatos para entender dónde estamos perdiendo talento y qué fuentes nos traen a los mejores empleados.
+## 📁 Estructura del proyecto
+## 🔍 Análisis realizados
+1. **Funnel de conversión** — ¿Dónde se pierden los candidatos?
+2. **Fuentes de reclutamiento** — ¿Qué canal trae más candidatos?
+3. **Time to Hire / Time to Fill** — ¿Cuánto tarda el proceso?
+4. **Pay Gap** — ¿Existe brecha salarial por género?
+5. **Calidad de contratación** — ¿Qué fuente trae los mejores empleados?
 
-## 📁 Estructura
-Para que todo esté ordenado organicé el proyecto así:
-- `data/`: Acá guardo los archivos crudos (CSV) de candidatos, procesos y performance.
-- `scripts/`: Acá está mi código de Python (la "magia" que limpia y une todo).
-- `master_hr_data.csv`: Mi archivo final unificado, listo para llevar a Power BI.
+## 🚀 Hallazgos Clave
+- **Solo el 0.3%** de los candidatos llega a la etapa final del proceso
+- **LinkedIn** concentra el 41% del volumen total de candidatos (4.826)
+- El **Time to Fill** promedio es de 77 días — la posición permanece vacante más de 2 meses
+- La **brecha salarial por género** es de solo 1.9%
+- Los **Referidos** lideran en calidad con 3.86 de rating y 92% de retención a 90 días
+- **Universidades** presenta la retención más baja (33%) — fuente a revisar
 
-## 🚀 Hallazgos Clave (Lo que descubrí)
-* **El Cuello de Botella:** Descubrí que solo el **2.15%** de los candidatos llega a la entrevista técnica. ¡Un filtro súper exigente!
-* **Fuga de Talento:** La fuente *Universidades* tiene un **67% de rotación** temprana. ¡Ojo ahí con los costos!
-* **Los Messi del equipo:** Los *Referidos* y *LinkedIn* son los que tienen el mejor desempeño (Rating > 3.8).
-
-## 🛠️ Tecnologías que usé
-- **Python 3.13** (Pandas para el manejo de datos).
-- **VS Code** con entornos virtuales (Venv) para trabajar prolijo.
-- **Markdown** para esta documentación.
+## 🛠️ Tecnologías
+- **Python 3.13** — Pandas, Matplotlib, Seaborn
+- **Power BI** — Dashboard interactivo *(en desarrollo)*
+- **VS Code** con entorno virtual (venv)
+- **Git / GitHub** para control de versiones
